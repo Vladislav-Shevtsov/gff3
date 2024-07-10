@@ -1,0 +1,983 @@
+873	1529	gene
+			gene	rps3
+
+334	570	CDS
+
+			product	ribosomal protein rps3
+			codon_start	1
+			transl_table	11
+
+1684	3113	gene
+			gene	rpl16
+
+873	1529	CDS
+
+			product	ribosomal protein rpl16
+			codon_start	1
+			transl_table	11
+
+3253	3621	gene
+			gene	rpl14
+
+1684	1692	CDS
+
+			product	ribosomal protein rpl14
+			codon_start	1
+			transl_table	11
+
+2715	3113	CDS
+
+			product	ribosomal protein rpl14
+			codon_start	1
+			transl_table	11
+
+3774	4178	gene
+			gene	rps8
+
+3253	3621	CDS
+
+			product	ribosomal protein rps8
+			codon_start	1
+			transl_table	11
+
+4633	4746	gene
+			gene	rpl36
+
+3774	4178	CDS
+
+			product	ribosomal protein rpl36
+			codon_start	1
+			transl_table	11
+
+4861	5277	gene
+			gene	rps11
+
+4633	4746	CDS
+
+			product	ribosomal protein rps11
+			codon_start	1
+			transl_table	11
+
+5341	6357	gene
+			gene	rpoA
+
+4861	5277	CDS
+
+			product	ribosomal protein rpoA
+			codon_start	1
+			transl_table	11
+
+7755	6571	gene
+			gene	petD
+
+5341	6357	CDS
+
+			product	ribosomal protein petD
+			codon_start	1
+			transl_table	11
+
+9385	7965	gene
+			gene	petB
+
+7755	7748	CDS
+
+			product	ribosomal protein petB
+			codon_start	1
+			transl_table	11
+
+7045	6571	CDS
+
+			product	ribosomal protein petB
+			codon_start	1
+			transl_table	11
+
+9774	9553	gene
+			gene	psbH
+
+9385	9380	CDS
+
+			product	ribosomal protein psbH
+			codon_start	1
+			transl_table	11
+
+8606	7965	CDS
+
+			product	ribosomal protein psbH
+			codon_start	1
+			transl_table	11
+
+9879	10010	gene
+			gene	pbf1
+
+9774	9553	CDS
+
+			product	ribosomal protein pbf1
+			codon_start	1
+			transl_table	11
+
+10179	10072	gene
+			gene	psbT
+
+9879	10010	CDS
+
+			product	ribosomal protein psbT
+			codon_start	1
+			transl_table	11
+
+11876	10350	gene
+			gene	psbB
+
+10179	10072	CDS
+
+			product	ribosomal protein psbB
+			codon_start	1
+			transl_table	11
+
+12316	14227	gene
+			gene	clpP1
+
+11876	10350	CDS
+
+			product	ribosomal protein clpP1
+			codon_start	1
+			transl_table	11
+
+14396	15181	gene
+			gene	rps12A
+
+12316	12386	CDS
+
+			product	ribosomal protein rps12A
+			codon_start	1
+			transl_table	11
+
+13061	13352	CDS
+
+			product	ribosomal protein rps12A
+			codon_start	1
+			transl_table	11
+
+14000	14227	CDS
+
+			product	ribosomal protein rps12A
+			codon_start	1
+			transl_table	11
+
+15293	15646	gene
+			gene	rpl20
+
+14396	14509	CDS
+
+			product	ribosomal protein rpl20
+			codon_start	1
+			transl_table	11
+
+16254	16081	gene
+			gene	rps18
+
+15293	15646	CDS
+
+			product	ribosomal protein rps18
+			codon_start	1
+			transl_table	11
+
+16544	16344	gene
+			gene	rpl33
+
+16254	16081	CDS
+
+			product	ribosomal protein rpl33
+			codon_start	1
+			transl_table	11
+
+17087	16953	gene
+			gene	psaJ
+
+16544	16344	CDS
+
+			product	ribosomal protein psaJ
+			codon_start	1
+			transl_table	11
+
+17449	17522	gene
+			gene	trnP-UGG
+
+17087	16953	CDS
+
+			product	ribosomal protein trnP-UGG
+			codon_start	1
+			transl_table	11
+
+17665	17738	gene
+			gene	trnW-CCA
+
+17959	17846	gene
+			gene	petG
+
+18221	18126	gene
+			gene	petL
+
+17959	17846	CDS
+
+			product	ribosomal protein petL
+			codon_start	1
+			transl_table	11
+
+19354	19605	gene
+			gene	psbE
+
+18221	18126	CDS
+
+			product	ribosomal protein psbE
+			codon_start	1
+			transl_table	11
+
+19615	19734	gene
+			gene	psbF
+
+19354	19605	CDS
+
+			product	ribosomal protein psbF
+			codon_start	1
+			transl_table	11
+
+19757	19873	gene
+			gene	psbL
+
+19615	19734	CDS
+
+			product	ribosomal protein psbL
+			codon_start	1
+			transl_table	11
+
+19999	20121	gene
+			gene	psbJ
+
+19757	19873	CDS
+
+			product	ribosomal protein psbJ
+			codon_start	1
+			transl_table	11
+
+21917	20952	gene
+			gene	petA
+
+19999	20121	CDS
+
+			product	ribosomal protein petA
+			codon_start	1
+			transl_table	11
+
+22838	22149	gene
+			gene	cemA
+
+21917	20952	CDS
+
+			product	ribosomal protein cemA
+			codon_start	1
+			transl_table	11
+
+23781	23227	gene
+			gene	pafII
+
+22838	22149	CDS
+
+			product	ribosomal protein pafII
+			codon_start	1
+			transl_table	11
+
+24315	24205	gene
+			gene	psaI
+
+23781	23227	CDS
+
+			product	ribosomal protein psaI
+			codon_start	1
+			transl_table	11
+
+26277	24850	gene
+			gene	accD
+
+24315	24205	CDS
+
+			product	ribosomal protein accD
+			codon_start	1
+			transl_table	11
+
+28443	27016	gene
+			gene	rbcL
+
+26277	24850	CDS
+
+			product	ribosomal protein rbcL
+			codon_start	1
+			transl_table	11
+
+29204	30700	gene
+			gene	atpB
+
+28443	27016	CDS
+
+			product	ribosomal protein atpB
+			codon_start	1
+			transl_table	11
+
+30697	31098	gene
+			gene	atpE
+
+29204	30700	CDS
+
+			product	ribosomal protein atpE
+			codon_start	1
+			transl_table	11
+
+31345	31273	gene
+			gene	trnM-CAU
+
+30697	31098	CDS
+
+			product	ribosomal protein trnM-CAU
+			codon_start	1
+			transl_table	11
+
+31510	32158	gene
+			gene	trnV-UAC
+
+33166	33528	gene
+			gene	ndhC
+
+33519	34223	gene
+			gene	ndhK
+
+33166	33528	CDS
+
+			product	ribosomal protein ndhK
+			codon_start	1
+			transl_table	11
+
+34371	34847	gene
+			gene	ndhJ
+
+33519	34223	CDS
+
+			product	ribosomal protein ndhJ
+			codon_start	1
+			transl_table	11
+
+35421	35349	gene
+			gene	trnF-GAA
+
+34371	34847	CDS
+
+			product	ribosomal protein trnF-GAA
+			codon_start	1
+			transl_table	11
+
+36445	35835	gene
+			gene	trnL-UAA
+
+37093	37165	gene
+			gene	trnT-UGU
+
+37546	38151	gene
+			gene	rps4
+
+38500	38414	gene
+			gene	trnS-GGA
+
+37546	38151	CDS
+
+			product	ribosomal protein trnS-GGA
+			codon_start	1
+			transl_table	11
+
+39203	41186	gene
+			gene	pafI
+
+41835	44087	gene
+			gene	psaA
+
+39203	39326	CDS
+
+			product	ribosomal protein psaA
+			codon_start	1
+			transl_table	11
+
+40051	40280	CDS
+
+			product	ribosomal protein psaA
+			codon_start	1
+			transl_table	11
+
+41034	41186	CDS
+
+			product	ribosomal protein psaA
+			codon_start	1
+			transl_table	11
+
+44113	46317	gene
+			gene	psaB
+
+41835	44087	CDS
+
+			product	ribosomal protein psaB
+			codon_start	1
+			transl_table	11
+
+46450	46752	gene
+			gene	rps14
+
+44113	46317	CDS
+
+			product	ribosomal protein rps14
+			codon_start	1
+			transl_table	11
+
+46908	46981	gene
+			gene	trnfM-CAU
+
+46450	46752	CDS
+
+			product	ribosomal protein trnfM-CAU
+			codon_start	1
+			transl_table	11
+
+47207	47137	gene
+			gene	trnG-GCC
+
+47726	47538	gene
+			gene	psbZ
+
+48016	48108	gene
+			gene	trnS-UGA
+
+47726	47538	CDS
+
+			product	ribosomal protein trnS-UGA
+			codon_start	1
+			transl_table	11
+
+49710	48325	gene
+			gene	psbC
+
+50755	49694	gene
+			gene	psbD
+
+49710	48325	CDS
+
+			product	ribosomal protein psbD
+			codon_start	1
+			transl_table	11
+
+52074	52003	gene
+			gene	trnT-GGU
+
+50755	49694	CDS
+
+			product	ribosomal protein trnT-GGU
+			codon_start	1
+			transl_table	11
+
+52555	52627	gene
+			gene	trnE-UUC
+
+52693	52776	gene
+			gene	trnY-GUA
+
+53101	53174	gene
+			gene	trnD-GUC
+
+54263	54367	gene
+			gene	psbM
+
+55296	55207	gene
+			gene	petN
+
+54263	54367	CDS
+
+			product	ribosomal protein petN
+			codon_start	1
+			transl_table	11
+
+56068	55998	gene
+			gene	trnC-GCA
+
+55296	55207	CDS
+
+			product	ribosomal protein trnC-GCA
+			codon_start	1
+			transl_table	11
+
+57025	60237	gene
+			gene	rpoB
+
+60264	63012	gene
+			gene	rpoC1
+
+57025	60237	CDS
+
+			product	ribosomal protein rpoC1
+			codon_start	1
+			transl_table	11
+
+63205	67371	gene
+			gene	rpoC2
+
+60264	60695	CDS
+
+			product	ribosomal protein rpoC2
+			codon_start	1
+			transl_table	11
+
+61405	63012	CDS
+
+			product	ribosomal protein rpoC2
+			codon_start	1
+			transl_table	11
+
+67589	68299	gene
+			gene	rps2
+
+63205	67371	CDS
+
+			product	ribosomal protein rps2
+			codon_start	1
+			transl_table	11
+
+68493	69236	gene
+			gene	atpI
+
+67589	68299	CDS
+
+			product	ribosomal protein atpI
+			codon_start	1
+			transl_table	11
+
+70416	70661	gene
+			gene	atpH
+
+68493	69236	CDS
+
+			product	ribosomal protein atpH
+			codon_start	1
+			transl_table	11
+
+71052	72322	gene
+			gene	atpF
+
+70416	70661	CDS
+
+			product	ribosomal protein atpF
+			codon_start	1
+			transl_table	11
+
+72393	73919	gene
+			gene	atpA
+
+71052	71196	CDS
+
+			product	ribosomal protein atpA
+			codon_start	1
+			transl_table	11
+
+71910	72322	CDS
+
+			product	ribosomal protein atpA
+			codon_start	1
+			transl_table	11
+
+74196	74125	gene
+			gene	trnR-UCU
+
+72393	73919	CDS
+
+			product	ribosomal protein trnR-UCU
+			codon_start	1
+			transl_table	11
+
+75112	74340	gene
+			gene	trnG-UCC
+
+75771	75858	gene
+			gene	trnS-GCU
+
+76112	76002	gene
+			gene	psbI
+
+76679	76494	gene
+			gene	psbK
+
+76112	76002	CDS
+
+			product	ribosomal protein psbK
+			codon_start	1
+			transl_table	11
+
+77029	77100	gene
+			gene	trnQ-UUG
+
+76679	76494	CDS
+
+			product	ribosomal protein trnQ-UUG
+			codon_start	1
+			transl_table	11
+
+78411	79506	gene
+			gene	rps16
+
+80227	82751	gene
+			gene	trnK-UUU
+
+78411	78450	CDS
+
+			product	ribosomal protein trnK-UUU
+			codon_start	1
+			transl_table	11
+
+79271	79506	CDS
+
+			product	ribosomal protein trnK-UUU
+			codon_start	1
+			transl_table	11
+
+80971	82461	gene
+			gene	matK
+
+83000	84061	gene
+			gene	psbA
+
+80971	82461	CDS
+
+			product	ribosomal protein psbA
+			codon_start	1
+			transl_table	11
+
+84371	84445	gene
+			gene	trnH-GUG
+
+83000	84061	CDS
+
+			product	ribosomal protein trnH-GUG
+			codon_start	1
+			transl_table	11
+
+86021	84526	gene
+			gene	rpl2
+
+86338	86054	gene
+			gene	rpl23
+
+86021	85631	CDS
+
+			product	ribosomal protein rpl23
+			codon_start	1
+			transl_table	11
+
+84959	84526	CDS
+
+			product	ribosomal protein rpl23
+			codon_start	1
+			transl_table	11
+
+86577	86504	gene
+			gene	trnI-CAU
+
+86338	86054	CDS
+
+			product	ribosomal protein trnI-CAU
+			codon_start	1
+			transl_table	11
+
+86666	93100	gene
+			gene	ycf2
+
+94122	94042	gene
+			gene	trnL-CAA
+
+86666	93100	CDS
+
+			product	ribosomal protein trnL-CAA
+			codon_start	1
+			transl_table	11
+
+96837	94677	gene
+			gene	ndhB
+
+97671	97204	gene
+			gene	rps7
+
+96837	96115	CDS
+
+			product	ribosomal protein rps7
+			codon_start	1
+			transl_table	11
+
+95432	94677	CDS
+
+			product	ribosomal protein rps7
+			codon_start	1
+			transl_table	11
+
+99336	97725	gene
+			gene	rps12B
+
+97671	97204	CDS
+
+			product	ribosomal protein rps12B
+			codon_start	1
+			transl_table	11
+
+100331	100402	gene
+			gene	trnV-GAC
+
+98517	98286	CDS
+
+			product	ribosomal protein trnV-GAC
+			codon_start	1
+			transl_table	11
+
+97750	97725	CDS
+
+			product	ribosomal protein trnV-GAC
+			codon_start	1
+			transl_table	11
+
+100630	102121	gene
+			gene	rrn16
+
+102416	103425	gene
+			gene	trnI-GAU
+
+103490	104279	gene
+			gene	trnA-UGC
+
+104432	107242	gene
+			gene	rrn23
+
+107341	107443	gene
+			gene	rrn4.5
+
+107678	107798	gene
+			gene	rrn5
+
+108021	108094	gene
+			gene	trnR-ACG
+
+108697	108626	gene
+			gene	trnN-GUU
+
+112312	110102	gene
+			gene	ndhF
+
+113332	113411	gene
+			gene	trnL-UAG
+
+112312	110102	CDS
+
+			product	ribosomal protein trnL-UAG
+			codon_start	1
+			transl_table	11
+
+113524	114498	gene
+			gene	ccsA
+
+116221	114719	gene
+			gene	ndhD
+
+113524	114498	CDS
+
+			product	ribosomal protein ndhD
+			codon_start	1
+			transl_table	11
+
+116604	116359	gene
+			gene	psaC
+
+116221	114719	CDS
+
+			product	ribosomal protein psaC
+			codon_start	1
+			transl_table	11
+
+117168	116863	gene
+			gene	ndhE
+
+116604	116359	CDS
+
+			product	ribosomal protein ndhE
+			codon_start	1
+			transl_table	11
+
+117879	117349	gene
+			gene	ndhG
+
+117168	116863	CDS
+
+			product	ribosomal protein ndhG
+			codon_start	1
+			transl_table	11
+
+118751	118248	gene
+			gene	ndhI
+
+117879	117349	CDS
+
+			product	ribosomal protein ndhI
+			codon_start	1
+			transl_table	11
+
+120927	118831	gene
+			gene	ndhA
+
+118751	118248	CDS
+
+			product	ribosomal protein ndhA
+			codon_start	1
+			transl_table	11
+
+122110	120929	gene
+			gene	ndhH
+
+120927	120384	CDS
+
+			product	ribosomal protein ndhH
+			codon_start	1
+			transl_table	11
+
+119369	118831	CDS
+
+			product	ribosomal protein ndhH
+			codon_start	1
+			transl_table	11
+
+122467	122210	gene
+			gene	rps15
+
+122110	120929	CDS
+
+			product	ribosomal protein rps15
+			codon_start	1
+			transl_table	11
+
+128206	122804	gene
+			gene	ycf1
+
+122467	122210	CDS
+
+			product	ribosomal protein ycf1
+			codon_start	1
+			transl_table	11
+
+128535	128606	gene
+			gene	trnN-GUU
+
+128206	122804	CDS
+
+			product	ribosomal protein trnN-GUU
+			codon_start	1
+			transl_table	11
+
+129211	129138	gene
+			gene	trnR-ACG
+
+129554	129434	gene
+			gene	rrn5
+
+129891	129789	gene
+			gene	rrn4.5
+
+132800	129990	gene
+			gene	rrn23
+
+133742	132953	gene
+			gene	trnA-UGC
+
+134816	133807	gene
+			gene	trnI-GAU
+
+136602	135111	gene
+			gene	rrn16
+
+136901	136830	gene
+			gene	trnV-GAC
+
+137896	139507	gene
+			gene	rps12B
+
+139561	140028	gene
+			gene	rps7
+
+138715	138946	CDS
+
+			product	ribosomal protein rps7
+			codon_start	1
+			transl_table	11
+
+139482	139507	CDS
+
+			product	ribosomal protein rps7
+			codon_start	1
+			transl_table	11
+
+140395	142555	gene
+			gene	ndhB
+
+139561	140028	CDS
+
+			product	ribosomal protein ndhB
+			codon_start	1
+			transl_table	11
+
+143110	143190	gene
+			gene	trnL-CAA
+
+140395	141117	CDS
+
+			product	ribosomal protein trnL-CAA
+			codon_start	1
+			transl_table	11
+
+141800	142555	CDS
+
+			product	ribosomal protein trnL-CAA
+			codon_start	1
+			transl_table	11
+
+150566	144132	gene
+			gene	ycf2
+
+150655	150728	gene
+			gene	trnI-CAU
+
+150566	144132	CDS
+
+			product	ribosomal protein trnI-CAU
+			codon_start	1
+			transl_table	11
+
+150894	151178	gene
+			gene	rpl23
+
+151211	152706	gene
+			gene	rpl2
+
+150894	151178	CDS
+
+			product	ribosomal protein rpl2
+			codon_start	1
+			transl_table	11
+
+152273	152706	CDS
+			gene	nan
+
+151211	151601	CDS
+
+			product	ribosomal protein nan
+			codon_start	1
+			transl_table	11
+
+152273	152706	CDS
+
+			product	ribosomal protein nan
+			codon_start	1
+			transl_table	11

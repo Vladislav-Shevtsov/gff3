@@ -1,0 +1,451 @@
+##gff-version 3.2.1
+Chl-PD2-16_Cloroplast_genome	Chloe	region	1	157474	.	+	0	Is_circular=true
+Chl-PD2-16_Cloroplast_genome	Chloe	source	1	157474	.	+	1	ID=source-null;gbkey=source
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	2	76	2.000e-03	-	.	ID=trnH-GUG;Name=trnH-GUG
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	2	76	2.000e-03	-	.	ID=trnH-GUG.tRNA.1;Parent=trnH-GUG
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	346	1407	0.000e+00	-	.	ID=psbA;Name=psbA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	346	1407	0.000e+00	-	0	ID=psbA.CDS.1;Parent=psbA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	1976	3502	1.000e-03	-	.	ID=matK;Name=matK
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	1976	3502	1.000e-03	-	0	ID=matK.CDS.1;Parent=matK
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	1662	4255	6.500e-03	-	.	ID=trnK-UUU;Name=trnK-UUU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	4219	4255	9.000e-03	-	.	ID=trnK-UUU.tRNA.1;Parent=trnK-UUU
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	1697	4218	1.000e-03	-	.	ID=trnK-UUU.intron.2;Parent=trnK-UUU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	1662	1696	4.000e-03	-	.	ID=trnK-UUU.tRNA.3;Parent=trnK-UUU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	4995	5067	1.000e-03	+	.	ID=trnT-UGU;Name=trnT-UGU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	4995	5067	1.000e-03	+	.	ID=trnT-UGU.tRNA.1;Parent=trnT-UGU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	5422	6027	0.000e+00	+	.	ID=rps4;Name=rps4
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	5422	6027	0.000e+00	+	0	ID=rps4.CDS.1;Parent=rps4
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	6358	6444	0.000e+00	-	.	ID=trnS-GGA;Name=trnS-GGA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	6358	6444	0.000e+00	-	.	ID=trnS-GGA.tRNA.1;Parent=trnS-GGA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	7300	9269	5.007e-01	+	.	ID=pafI;Name=pafI
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	7300	7423	2.000e-03	+	0	ID=pafI.CDS.1;Parent=pafI
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	7424	8135	1.000e-03	+	.	ID=pafI.intron.2;Parent=pafI
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	8136	8365	2.000e-03	+	2	ID=pafI.CDS.3;Parent=pafI
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	8366	9110	2.000e-03	+	.	ID=pafI.intron.4;Parent=pafI
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	9111	9269	1.000e-03	+	0	ID=pafI.CDS.5;Parent=pafI
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	9903	12155	0.000e+00	+	.	ID=psaA;Name=psaA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	9903	12155	0.000e+00	+	0	ID=psaA.CDS.1;Parent=psaA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	12181	14385	0.000e+00	+	.	ID=psaB;Name=psaB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	12181	14385	0.000e+00	+	0	ID=psaB.CDS.1;Parent=psaB
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	14527	14829	0.000e+00	+	.	ID=rps14;Name=rps14
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	14527	14829	0.000e+00	+	0	ID=rps14.CDS.1;Parent=rps14
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	14992	15065	3.000e-03	+	.	ID=trnfM-CAU;Name=trnfM-CAU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	14992	15065	3.000e-03	+	.	ID=trnfM-CAU.tRNA.1;Parent=trnfM-CAU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	15247	15317	1.000e-03	-	.	ID=trnG-GCC;Name=trnG-GCC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	15247	15317	1.000e-03	-	.	ID=trnG-GCC.tRNA.1;Parent=trnG-GCC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	15696	15884	0.000e+00	-	.	ID=psbZ;Name=psbZ
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	15696	15884	0.000e+00	-	0	ID=psbZ.CDS.1;Parent=psbZ
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	16223	16315	1.000e-03	+	.	ID=trnS-UGA;Name=trnS-UGA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	16223	16315	1.000e-03	+	.	ID=trnS-UGA.tRNA.1;Parent=trnS-UGA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	16504	17889	0.000e+00	-	.	ID=psbC;Name=psbC
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	16504	17889	0.000e+00	-	0	ID=psbC.CDS.1;Parent=psbC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	17873	18934	0.000e+00	-	.	ID=psbD;Name=psbD
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	17873	18934	0.000e+00	-	0	ID=psbD.CDS.1;Parent=psbD
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	20427	20498	4.000e-03	-	.	ID=trnT-GGU;Name=trnT-GGU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	20427	20498	4.000e-03	-	.	ID=trnT-GGU.tRNA.1;Parent=trnT-GGU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	21250	21322	1.000e-03	+	.	ID=trnE-UUC;Name=trnE-UUC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	21250	21322	1.000e-03	+	.	ID=trnE-UUC.tRNA.1;Parent=trnE-UUC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	21382	21465	0.000e+00	+	.	ID=trnY-GUA;Name=trnY-GUA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	21382	21465	0.000e+00	+	.	ID=trnY-GUA.tRNA.1;Parent=trnY-GUA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	21879	21952	1.000e-03	+	.	ID=trnD-GUC;Name=trnD-GUC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	21879	21952	1.000e-03	+	.	ID=trnD-GUC.tRNA.1;Parent=trnD-GUC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	22556	22660	1.000e-03	+	.	ID=psbM;Name=psbM
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	22556	22660	1.000e-03	+	0	ID=psbM.CDS.1;Parent=psbM
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	23840	23929	0.000e+00	-	.	ID=petN;Name=petN
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	23840	23929	0.000e+00	-	0	ID=petN.CDS.1;Parent=petN
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	24790	24860	1.000e-03	-	.	ID=trnC-GCA;Name=trnC-GCA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	24790	24860	1.000e-03	-	.	ID=trnC-GCA.tRNA.1;Parent=trnC-GCA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	26116	29331	0.000e+00	+	.	ID=rpoB;Name=rpoB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	26116	29331	0.000e+00	+	0	ID=rpoB.CDS.1;Parent=rpoB
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	29358	32166	2.500e-03	+	.	ID=rpoC1;Name=rpoC1
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	29358	29789	3.000e-03	+	0	ID=rpoC1.CDS.1;Parent=rpoC1
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	29790	30561	3.000e-03	+	.	ID=rpoC1.intron.2;Parent=rpoC1
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	30562	32166	2.000e-03	+	0	ID=rpoC1.CDS.3;Parent=rpoC1
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	32342	36487	1.000e-03	+	.	ID=rpoC2;Name=rpoC2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	32342	36487	1.000e-03	+	0	ID=rpoC2.CDS.1;Parent=rpoC2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	36669	37379	0.000e+00	+	.	ID=rps2;Name=rps2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	36669	37379	0.000e+00	+	0	ID=rps2.CDS.1;Parent=rps2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	37592	38335	0.000e+00	+	.	ID=atpI;Name=atpI
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	37592	38335	0.000e+00	+	0	ID=atpI.CDS.1;Parent=atpI
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	39313	39558	1.000e-03	+	.	ID=atpH;Name=atpH
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	39313	39558	1.000e-03	+	0	ID=atpH.CDS.1;Parent=atpH
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	40025	41306	1.500e-03	+	.	ID=atpF;Name=atpF
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	40025	40169	1.000e-03	+	0	ID=atpF.CDS.1;Parent=atpF
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	40170	40896	2.000e-03	+	.	ID=atpF.intron.2;Parent=atpF
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	40897	41306	2.000e-03	+	2	ID=atpF.CDS.3;Parent=atpF
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	41373	42896	0.000e+00	+	.	ID=atpA;Name=atpA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	41373	42896	0.000e+00	+	0	ID=atpA.CDS.1;Parent=atpA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	43046	43117	0.000e+00	-	.	ID=trnR-UCU;Name=trnR-UCU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	43046	43117	0.000e+00	-	.	ID=trnR-UCU.tRNA.1;Parent=trnR-UCU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	43269	44047	2.500e-02	-	.	ID=trnG-UCC;Name=trnG-UCC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	44025	44047	2.500e-02	-	.	ID=trnG-UCC.tRNA.1;Parent=trnG-UCC
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	43317	44024	1.000e-02	-	.	ID=trnG-UCC.intron.2;Parent=trnG-UCC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	43269	43316	2.500e-02	-	.	ID=trnG-UCC.tRNA.3;Parent=trnG-UCC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	44826	44913	1.000e-03	+	.	ID=trnS-GCU;Name=trnS-GCU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	44826	44913	1.000e-03	+	.	ID=trnS-GCU.tRNA.1;Parent=trnS-GCU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	44997	45107	1.000e-03	-	.	ID=psbI;Name=psbI
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	44997	45107	1.000e-03	-	0	ID=psbI.CDS.1;Parent=psbI
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	45550	45735	1.000e-03	-	.	ID=psbK;Name=psbK
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	45550	45735	1.000e-03	-	0	ID=psbK.CDS.1;Parent=psbK
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	46062	46133	1.000e-03	+	.	ID=trnQ-UUG;Name=trnQ-UUG
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	46062	46133	1.000e-03	+	.	ID=trnQ-UUG.tRNA.1;Parent=trnQ-UUG
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	46492	47637	3.250e-02	+	.	ID=rps16;Name=rps16
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	46492	46531	3.100e-02	+	0	ID=rps16.CDS.1;Parent=rps16
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	46532	47407	4.500e-02	+	.	ID=rps16.intron.2;Parent=rps16
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	47408	47637	3.400e-02	+	0	ID=rps16.CDS.3;Parent=rps16
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	49498	50075	4.500e-03	+	.	ID=trnL-UAA;Name=trnL-UAA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	49498	49532	9.000e-03	+	.	ID=trnL-UAA.tRNA.1;Parent=trnL-UAA
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	49533	50025	3.000e-03	+	.	ID=trnL-UAA.intron.2;Parent=trnL-UAA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	50026	50075	0.000e+00	+	.	ID=trnL-UAA.tRNA.3;Parent=trnL-UAA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	50481	50553	0.000e+00	+	.	ID=trnF-GAA;Name=trnF-GAA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	50481	50553	0.000e+00	+	.	ID=trnF-GAA.tRNA.1;Parent=trnF-GAA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	51279	51755	0.000e+00	-	.	ID=ndhJ;Name=ndhJ
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	51279	51755	0.000e+00	-	0	ID=ndhJ.CDS.1;Parent=ndhJ
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	51904	52587	0.000e+00	-	.	ID=ndhK;Name=ndhK
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	51904	52587	0.000e+00	-	0	ID=ndhK.CDS.1;Parent=ndhK
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	52642	53004	0.000e+00	-	.	ID=ndhC;Name=ndhC
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	52642	53004	0.000e+00	-	0	ID=ndhC.CDS.1;Parent=ndhC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	54364	55024	4.000e-03	-	.	ID=trnV-UAC;Name=trnV-UAC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	54986	55024	2.000e-03	-	.	ID=trnV-UAC.tRNA.1;Parent=trnV-UAC
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	54399	54985	1.000e-03	-	.	ID=trnV-UAC.intron.2;Parent=trnV-UAC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	54364	54398	6.000e-03	-	.	ID=trnV-UAC.tRNA.3;Parent=trnV-UAC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	55207	55279	1.000e-03	+	.	ID=trnM-CAU;Name=trnM-CAU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	55207	55279	1.000e-03	+	.	ID=trnM-CAU.tRNA.1;Parent=trnM-CAU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	55546	55947	1.000e-03	-	.	ID=atpE;Name=atpE
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	55546	55947	1.000e-03	-	0	ID=atpE.CDS.1;Parent=atpE
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	55944	57440	0.000e+00	-	.	ID=atpB;Name=atpB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	55944	57440	0.000e+00	-	0	ID=atpB.CDS.1;Parent=atpB
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	58193	59620	0.000e+00	+	.	ID=rbcL;Name=rbcL
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	58193	59620	0.000e+00	+	0	ID=rbcL.CDS.1;Parent=rbcL
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	60273	61751	1.000e-03	+	.	ID=accD;Name=accD
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	60273	61751	1.000e-03	+	0	ID=accD.CDS.1;Parent=accD
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	62424	62534	2.000e-03	+	.	ID=psaI;Name=psaI
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	62424	62534	2.000e-03	+	0	ID=psaI.CDS.1;Parent=psaI
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	62967	63521	0.000e+00	+	.	ID=pafII;Name=pafII
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	62967	63521	0.000e+00	+	0	ID=pafII.CDS.1;Parent=pafII
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	63840	64529	0.000e+00	+	.	ID=cemA;Name=cemA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	63840	64529	0.000e+00	+	0	ID=cemA.CDS.1;Parent=cemA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	64735	65703	0.000e+00	+	.	ID=petA;Name=petA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	64735	65703	0.000e+00	+	0	ID=petA.CDS.1;Parent=petA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	66079	66201	1.000e-03	-	.	ID=psbJ;Name=psbJ
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	66079	66201	1.000e-03	-	0	ID=psbJ.CDS.1;Parent=psbJ
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	66321	66437	1.000e-03	-	.	ID=psbL;Name=psbL
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	66321	66437	1.000e-03	-	0	ID=psbL.CDS.1;Parent=psbL
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	66460	66579	1.000e-03	-	.	ID=psbF;Name=psbF
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	66460	66579	1.000e-03	-	0	ID=psbF.CDS.1;Parent=psbF
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	66589	66840	2.000e-03	-	.	ID=psbE;Name=psbE
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	66589	66840	2.000e-03	-	0	ID=psbE.CDS.1;Parent=psbE
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	68013	68108	1.000e-03	+	.	ID=petL;Name=petL
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	68013	68108	1.000e-03	+	0	ID=petL.CDS.1;Parent=petL
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	68286	68399	1.000e-03	+	.	ID=petG;Name=petG
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	68286	68399	1.000e-03	+	0	ID=petG.CDS.1;Parent=petG
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	68540	68613	1.000e-03	-	.	ID=trnW-CCA;Name=trnW-CCA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	68540	68613	1.000e-03	-	.	ID=trnW-CCA.tRNA.1;Parent=trnW-CCA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	68768	68841	1.000e-03	-	.	ID=trnP-UGG;Name=trnP-UGG
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	68768	68841	1.000e-03	-	.	ID=trnP-UGG.tRNA.1;Parent=trnP-UGG
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	69241	69375	1.000e-03	+	.	ID=psaJ;Name=psaJ
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	69241	69375	1.000e-03	+	0	ID=psaJ.CDS.1;Parent=psaJ
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	69789	69989	0.000e+00	+	.	ID=rpl33;Name=rpl33
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	69789	69989	0.000e+00	+	0	ID=rpl33.CDS.1;Parent=rpl33
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	70200	70505	1.000e-03	+	.	ID=rps18;Name=rps18
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	70200	70505	1.000e-03	+	0	ID=rps18.CDS.1;Parent=rps18
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	70773	71126	0.000e+00	-	.	ID=rpl20;Name=rpl20
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	70773	71126	0.000e+00	-	0	ID=rpl20.CDS.1;Parent=rpl20
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	71238	72033	0.000e+00	-	.	ID=rps12A;Name=rps12A
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	71920	72033	0.000e+00	-	0	ID=rps12A.CDS.1;Parent=rps12A
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	71238	71919	1.000e-03	-	.	ID=rps12A.intron.2;Parent=rps12A
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	72288	74360	5.041e-01	-	.	ID=clpP1;Name=clpP1
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	74290	74360	1.200e-02	-	0	ID=clpP1.CDS.1;Parent=clpP1
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	73463	74289	2.400e-02	-	.	ID=clpP1.intron.2;Parent=clpP1
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	73171	73462	9.000e-03	-	1	ID=clpP1.CDS.3;Parent=clpP1
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	72534	73170	2.800e-02	-	.	ID=clpP1.intron.4;Parent=clpP1
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	72288	72533	7.000e-03	-	0	ID=clpP1.CDS.5;Parent=clpP1
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	74790	76316	0.000e+00	+	.	ID=psbB;Name=psbB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	74790	76316	0.000e+00	+	0	ID=psbB.CDS.1;Parent=psbB
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	76500	76601	3.000e-03	+	.	ID=psbT;Name=psbT
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	76500	76601	3.000e-03	+	0	ID=psbT.CDS.1;Parent=psbT
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	76679	76810	1.000e-03	-	.	ID=pbf1;Name=pbf1
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	76679	76810	1.000e-03	-	0	ID=pbf1.CDS.1;Parent=pbf1
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	76913	77134	0.000e+00	+	.	ID=psbH;Name=psbH
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	76913	77134	0.000e+00	+	0	ID=psbH.CDS.1;Parent=psbH
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	77269	78668	1.000e-03	+	.	ID=petB;Name=petB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	77269	77274	2.000e-03	+	0	ID=petB.CDS.1;Parent=petB
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	77275	78026	1.000e-03	+	.	ID=petB.intron.2;Parent=petB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	78027	78668	0.000e+00	+	0	ID=petB.CDS.3;Parent=petB
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	78862	80066	1.500e-03	+	.	ID=petD;Name=petD
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	78862	78869	2.000e-03	+	0	ID=petD.CDS.1;Parent=petD
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	78870	79570	2.000e-03	+	.	ID=petD.intron.2;Parent=petD
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	79571	80066	1.000e-03	+	1	ID=petD.CDS.3;Parent=petD
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	80275	81261	0.000e+00	-	.	ID=rpoA;Name=rpoA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	80275	81261	0.000e+00	-	0	ID=rpoA.CDS.1;Parent=rpoA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	81328	81744	2.000e-03	-	.	ID=rps11;Name=rps11
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	81328	81744	2.000e-03	-	0	ID=rps11.CDS.1;Parent=rps11
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	81857	81970	1.000e-03	-	.	ID=rpl36;Name=rpl36
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	81857	81970	1.000e-03	-	0	ID=rpl36.CDS.1;Parent=rpl36
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	82086	82262	1.020e-01	-	.	ID=infA;Name=infA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	82086	82262	1.020e-01	-	0	ID=infA.CDS.1;Parent=infA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	82442	82840	2.000e-03	-	.	ID=rps8;Name=rps8
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	82442	82840	2.000e-03	-	0	ID=rps8.CDS.1;Parent=rps8
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	83033	83401	1.000e-03	-	.	ID=rpl14;Name=rpl14
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	83033	83401	1.000e-03	-	0	ID=rpl14.CDS.1;Parent=rpl14
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	83540	84929	8.500e-03	-	.	ID=rpl16;Name=rpl16
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	84921	84929	1.000e-02	-	0	ID=rpl16.CDS.1;Parent=rpl16
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	83939	84920	1.000e-02	-	.	ID=rpl16.intron.2;Parent=rpl16
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	83540	83938	7.000e-03	-	0	ID=rpl16.CDS.3;Parent=rpl16
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	85072	85728	1.000e-03	-	.	ID=rps3;Name=rps3
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	85072	85728	1.000e-03	-	0	ID=rps3.CDS.1;Parent=rps3
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	85713	86252	2.000e-03	-	.	ID=rpl22;Name=rpl22
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	85713	86252	2.000e-03	-	0	ID=rpl22.CDS.1;Parent=rpl22
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	86319	86597	5.000e-03	-	.	ID=rps19;Name=rps19
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	86319	86597	5.000e-03	-	0	ID=rps19.CDS.1;Parent=rps19
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	repeat_region	86511	112725	.	+	.	ID=IR-1;Name=IR-1
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	86666	88143	1.000e-02	-	.	ID=rpl2-2;Name=rpl2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	87759	88143	7.000e-03	-	0	ID=rpl2-2.CDS.1;Parent=rpl2-2
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	87100	87758	2.000e-02	-	.	ID=rpl2-2.intron.2;Parent=rpl2-2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	86666	87099	1.300e-02	-	2	ID=rpl2-2.CDS.3;Parent=rpl2-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	88162	88443	1.000e-03	-	.	ID=rpl23-2;Name=rpl23
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	88162	88443	1.000e-03	-	0	ID=rpl23-2.CDS.1;Parent=rpl23-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	88609	88682	2.000e-03	-	.	ID=trnI-CAU-2;Name=trnI-CAU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	88609	88682	2.000e-03	-	.	ID=trnI-CAU-2.tRNA.1;Parent=trnI-CAU-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	88751	95413	2.900e-02	+	.	ID=ycf2;Name=ycf2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	88751	95413	2.900e-02	+	0	ID=ycf2.CDS.1;Parent=ycf2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	96436	96516	0.000e+00	-	.	ID=trnL-CAA-2;Name=trnL-CAA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	96436	96516	0.000e+00	-	.	ID=trnL-CAA-2.tRNA.1;Parent=trnL-CAA-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	97084	99275	2.000e-03	-	.	ID=ndhB-2;Name=ndhB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	98553	99275	2.000e-03	-	0	ID=ndhB-2.CDS.1;Parent=ndhB-2
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	97840	98552	9.000e-03	-	.	ID=ndhB-2.intron.2;Parent=ndhB-2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	97084	97839	2.000e-03	-	0	ID=ndhB-2.CDS.3;Parent=ndhB-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	99661	100128	0.000e+00	-	.	ID=rps7-2;Name=rps7
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	99661	100128	0.000e+00	-	0	ID=rps7-2.CDS.1;Parent=rps7-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	100182	101842	5.500e-03	-	.	ID=rps12B-2;Name=rps12B
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	100977	101842	5.000e-03	-	.	ID=rps12B-2.intron.1;Parent=rps12B-2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	100745	100976	7.000e-03	-	0	ID=rps12B-2.CDS.2;Parent=rps12B-2
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	100208	100744	6.000e-03	-	.	ID=rps12B-2.intron.3;Parent=rps12B-2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	100182	100207	4.000e-03	-	2	ID=rps12B-2.CDS.4;Parent=rps12B-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	102840	102911	1.000e-03	+	.	ID=trnV-GAC;Name=trnV-GAC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	102840	102911	1.000e-03	+	.	ID=trnV-GAC.tRNA.1;Parent=trnV-GAC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	103139	104629	2.000e-03	+	.	ID=rrn16;Name=rrn16
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	103139	104629	2.000e-03	+	.	ID=rrn16.rRNA.1;Parent=rrn16
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	104924	105942	9.000e-03	+	.	ID=trnI-GAU;Name=trnI-GAU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	104924	104960	9.000e-03	+	.	ID=trnI-GAU.tRNA.1;Parent=trnI-GAU
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	104961	105907	8.000e-03	+	.	ID=trnI-GAU.intron.2;Parent=trnI-GAU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	105908	105942	9.000e-03	+	.	ID=trnI-GAU.tRNA.3;Parent=trnI-GAU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	106007	106878	1.000e-02	+	.	ID=trnA-UGC;Name=trnA-UGC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	106007	106044	1.100e-02	+	.	ID=trnA-UGC.tRNA.1;Parent=trnA-UGC
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	106045	106843	4.000e-03	+	.	ID=trnA-UGC.intron.2;Parent=trnA-UGC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	106844	106878	9.000e-03	+	.	ID=trnA-UGC.tRNA.3;Parent=trnA-UGC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	107031	109840	2.000e-03	+	.	ID=rrn23;Name=rrn23
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	107031	109840	2.000e-03	+	.	ID=rrn23.rRNA.1;Parent=rrn23
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	109939	110041	2.000e-03	+	.	ID=rrn4.5;Name=rrn4.5
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	109939	110041	2.000e-03	+	.	ID=rrn4.5.rRNA.1;Parent=rrn4.5
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	110267	110387	1.000e-03	+	.	ID=rrn5;Name=rrn5
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	110267	110387	1.000e-03	+	.	ID=rrn5.rRNA.1;Parent=rrn5
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	110638	110711	1.000e-03	+	.	ID=trnR-ACG;Name=trnR-ACG
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	110638	110711	1.000e-03	+	.	ID=trnR-ACG.tRNA.1;Parent=trnR-ACG
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	111272	111343	1.000e-03	-	.	ID=trnN-GUU-2;Name=trnN-GUU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	111272	111343	1.000e-03	-	.	ID=trnN-GUU-2.tRNA.1;Parent=trnN-GUU-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	111668	116923	1.400e-02	+	.	ID=ycf1;Name=ycf1
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	111668	116923	1.400e-02	+	0	ID=ycf1.CDS.1;Parent=ycf1
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	117348	117611	9.000e-03	+	.	ID=rps15;Name=rps15
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	117348	117611	9.000e-03	+	0	ID=rps15.CDS.1;Parent=rps15
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	117756	118937	0.000e+00	+	.	ID=ndhH;Name=ndhH
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	117756	118937	0.000e+00	+	0	ID=ndhH.CDS.1;Parent=ndhH
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	118939	121140	6.000e-03	+	.	ID=ndhA;Name=ndhA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	118939	119491	8.000e-03	+	0	ID=ndhA.CDS.1;Parent=ndhA
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	119492	120595	1.500e-02	+	.	ID=ndhA.intron.2;Parent=ndhA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	120596	121140	4.000e-03	+	2	ID=ndhA.CDS.3;Parent=ndhA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	121218	121778	1.000e-03	+	.	ID=ndhI;Name=ndhI
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	121218	121778	1.000e-03	+	0	ID=ndhI.CDS.1;Parent=ndhI
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	122207	122740	1.000e-03	+	.	ID=ndhG;Name=ndhG
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	122207	122740	1.000e-03	+	0	ID=ndhG.CDS.1;Parent=ndhG
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	122984	123289	0.000e+00	+	.	ID=ndhE;Name=ndhE
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	122984	123289	0.000e+00	+	0	ID=ndhE.CDS.1;Parent=ndhE
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	123560	123805	5.000e-03	+	.	ID=psaC;Name=psaC
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	123560	123805	5.000e-03	+	0	ID=psaC.CDS.1;Parent=psaC
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	123932	125434	0.000e+00	+	.	ID=ndhD;Name=ndhD
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	123932	125434	0.000e+00	+	0	ID=ndhD.CDS.1;Parent=ndhD
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	125698	126669	1.000e-03	-	.	ID=ccsA;Name=ccsA
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	125698	126669	1.000e-03	-	0	ID=ccsA.CDS.1;Parent=ccsA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	126794	126873	2.000e-03	-	.	ID=trnL-UAG;Name=trnL-UAG
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	126794	126873	2.000e-03	-	.	ID=trnL-UAG.tRNA.1;Parent=trnL-UAG
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	128795	131020	1.000e-03	+	.	ID=ndhF;Name=ndhF
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	128795	131020	1.000e-03	+	0	ID=ndhF.CDS.1;Parent=ndhF
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	repeat_region	131260	157474	.	-	.	ID=IR-2;Name=IR-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	132642	132713	1.000e-03	+	.	ID=trnN-GUU;Name=trnN-GUU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	132642	132713	1.000e-03	+	.	ID=trnN-GUU.tRNA.1;Parent=trnN-GUU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	133274	133347	1.000e-03	-	.	ID=trnR-ACG-2;Name=trnR-ACG
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	133274	133347	1.000e-03	-	.	ID=trnR-ACG-2.tRNA.1;Parent=trnR-ACG-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	133598	133718	1.000e-03	-	.	ID=rrn5-2;Name=rrn5
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	133598	133718	1.000e-03	-	.	ID=rrn5-2.rRNA.1;Parent=rrn5-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	133944	134046	2.000e-03	-	.	ID=rrn4.5-2;Name=rrn4.5
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	133944	134046	2.000e-03	-	.	ID=rrn4.5-2.rRNA.1;Parent=rrn4.5-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	134145	136954	2.000e-03	-	.	ID=rrn23-2;Name=rrn23
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	134145	136954	2.000e-03	-	.	ID=rrn23-2.rRNA.1;Parent=rrn23-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	137107	137978	1.000e-02	-	.	ID=trnA-UGC-2;Name=trnA-UGC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	137941	137978	1.100e-02	-	.	ID=trnA-UGC-2.tRNA.1;Parent=trnA-UGC-2
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	137142	137940	4.000e-03	-	.	ID=trnA-UGC-2.intron.2;Parent=trnA-UGC-2
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	137107	137141	9.000e-03	-	.	ID=trnA-UGC-2.tRNA.3;Parent=trnA-UGC-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	138043	139061	9.000e-03	-	.	ID=trnI-GAU-2;Name=trnI-GAU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	139025	139061	9.000e-03	-	.	ID=trnI-GAU-2.tRNA.1;Parent=trnI-GAU-2
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	138078	139024	8.000e-03	-	.	ID=trnI-GAU-2.intron.2;Parent=trnI-GAU-2
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	138043	138077	9.000e-03	-	.	ID=trnI-GAU-2.tRNA.3;Parent=trnI-GAU-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	139356	140846	2.000e-03	-	.	ID=rrn16-2;Name=rrn16
+Chl-PD2-16_Cloroplast_genome	Chloe	rRNA	139356	140846	2.000e-03	-	.	ID=rrn16-2.rRNA.1;Parent=rrn16-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	141074	141145	1.000e-03	-	.	ID=trnV-GAC-2;Name=trnV-GAC
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	141074	141145	1.000e-03	-	.	ID=trnV-GAC-2.tRNA.1;Parent=trnV-GAC-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	142143	143803	5.500e-03	+	.	ID=rps12B;Name=rps12B
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	142143	143008	5.000e-03	+	.	ID=rps12B.intron.1;Parent=rps12B
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	143009	143240	7.000e-03	+	0	ID=rps12B.CDS.2;Parent=rps12B
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	143241	143777	6.000e-03	+	.	ID=rps12B.intron.3;Parent=rps12B
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	143778	143803	4.000e-03	+	2	ID=rps12B.CDS.4;Parent=rps12B
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	143857	144324	0.000e+00	+	.	ID=rps7;Name=rps7
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	143857	144324	0.000e+00	+	0	ID=rps7.CDS.1;Parent=rps7
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	144710	146901	2.000e-03	+	.	ID=ndhB;Name=ndhB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	144710	145432	2.000e-03	+	0	ID=ndhB.CDS.1;Parent=ndhB
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	145433	146145	9.000e-03	+	.	ID=ndhB.intron.2;Parent=ndhB
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	146146	146901	2.000e-03	+	0	ID=ndhB.CDS.3;Parent=ndhB
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	147469	147549	0.000e+00	+	.	ID=trnL-CAA;Name=trnL-CAA
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	147469	147549	0.000e+00	+	.	ID=trnL-CAA.tRNA.1;Parent=trnL-CAA
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	148572	155234	2.900e-02	-	.	ID=ycf2-2;Name=ycf2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	148572	155234	2.900e-02	-	0	ID=ycf2-2.CDS.1;Parent=ycf2-2
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	155303	155376	2.000e-03	+	.	ID=trnI-CAU;Name=trnI-CAU
+Chl-PD2-16_Cloroplast_genome	Chloe	tRNA	155303	155376	2.000e-03	+	.	ID=trnI-CAU.tRNA.1;Parent=trnI-CAU
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	155542	155823	1.000e-03	+	.	ID=rpl23;Name=rpl23
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	155542	155823	1.000e-03	+	0	ID=rpl23.CDS.1;Parent=rpl23
+###
+Chl-PD2-16_Cloroplast_genome	Chloe	gene	155842	157319	1.000e-02	+	.	ID=rpl2;Name=rpl2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	155842	156226	7.000e-03	+	0	ID=rpl2.CDS.1;Parent=rpl2
+Chl-PD2-16_Cloroplast_genome	Chloe	intron	156227	156885	2.000e-02	+	.	ID=rpl2.intron.2;Parent=rpl2
+Chl-PD2-16_Cloroplast_genome	Chloe	CDS	156886	157319	1.300e-02	+	2	ID=rpl2.CDS.3;Parent=rpl2
+###

@@ -1,0 +1,926 @@
+307	687	gene
+			gene	rpl22
+307	687	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+745	1401	gene
+			gene	rps3
+745	1401	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+1523	2918	gene
+			gene	rpl16
+1523	1531	CDS
+2520	2918
+			product	
+			codon_start	1
+			transl_table	11
+
+3036	3404	gene
+			gene	rpl14
+3036	3404	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+3598	3996	gene
+			gene	rps8
+3598	3996	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+4469	4582	gene
+			gene	rpl36
+4469	4582	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+4697	5113	gene
+			gene	rps11
+4697	5113	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+5185	6198	gene
+			gene	rpoA
+5185	6198	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+7628	6384	gene
+			gene	petD
+7628	7621	CDS
+6858	6384
+			product	
+			codon_start	1
+			transl_table	11
+
+9296	7831	gene
+			gene	petB
+9296	9291	CDS
+8472	7831
+			product	
+			codon_start	1
+			transl_table	11
+
+9671	9450	gene
+			gene	psbH
+9671	9450	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+9779	9910	gene
+			gene	pbf1
+9779	9910	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+10086	9985	gene
+			gene	psbT
+10086	9985	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+11788	10262	gene
+			gene	psbB
+11788	10262	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+12255	14346	gene
+			gene	clpP1
+12255	12325	CDS
+13107	13398
+14095	14346
+			product	
+			codon_start	1
+			transl_table	11
+
+14489	15235	gene
+			gene	rps12A
+14489	14602	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+15342	15698	gene
+			gene	rpl20
+15342	15698	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+16240	15935	gene
+			gene	rps18
+16240	15935	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+16598	16398	gene
+			gene	rpl33
+16598	16398	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+17198	17064	gene
+			gene	psaJ
+17198	17064	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+17580	17653	gene
+			gene	trnP-UGG
+17580	17653	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+17797	17870	gene
+			gene	trnW-CCA
+17797	17870	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+18097	17984	gene
+			gene	petG
+18097	17984	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+18309	18214	gene
+			gene	petL
+18309	18214	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+19499	19750	gene
+			gene	psbE
+19499	19750	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+19761	19880	gene
+			gene	psbF
+19761	19880	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+19907	20023	gene
+			gene	psbL
+19907	20023	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+20149	20271	gene
+			gene	psbJ
+20149	20271	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+21856	20894	gene
+			gene	petA
+21856	20894	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+22776	22090	gene
+			gene	cemA
+22776	22090	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+24030	23476	gene
+			gene	pafII
+24030	23476	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+24510	24400	gene
+			gene	psaI
+24510	24400	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+26904	25399	gene
+			gene	accD
+26904	25399	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+29208	27769	gene
+			gene	rbcL
+29208	27769	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+29980	31476	gene
+			gene	atpB
+29980	31476	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+31473	31877	gene
+			gene	atpE
+31473	31877	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+32180	32108	gene
+			gene	trnM-CAU
+32180	32108	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+32347	33004	gene
+			gene	trnV-UAC
+32347	32385	tRNA
+32970	33004
+			product	
+			codon_start	1
+			transl_table	11
+
+34170	34532	gene
+			gene	ndhC
+34170	34532	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+34523	35290	gene
+			gene	ndhK
+34523	35290	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+35381	35857	gene
+			gene	ndhJ
+35381	35857	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+36457	36385	gene
+			gene	trnF-GAA
+36457	36385	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+37501	36851	gene
+			gene	trnL-UAA
+37501	37467	tRNA
+36900	36851
+			product	
+			codon_start	1
+			transl_table	11
+
+38256	38328	gene
+			gene	trnT-UGU
+38256	38328	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+38746	39351	gene
+			gene	rps4
+38746	39351	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+39770	39684	gene
+			gene	trnS-GGA
+39770	39684	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+40385	42319	gene
+			gene	pafI
+40385	40508	CDS
+41202	41431
+42161	42319
+			product	
+			codon_start	1
+			transl_table	11
+
+42984	45236	gene
+			gene	psaA
+42984	45236	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+45262	47466	gene
+			gene	psaB
+45262	47466	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+47603	47905	gene
+			gene	rps14
+47603	47905	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+48064	48137	gene
+			gene	trnfM-CAU
+48064	48137	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+48381	48311	gene
+			gene	trnG-GCC
+48381	48311	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+48829	48641	gene
+			gene	psbZ
+48829	48641	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+49188	49280	gene
+			gene	trnS-UGA
+49188	49280	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+50803	49418	gene
+			gene	psbC
+50803	49418	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+51848	50787	gene
+			gene	psbD
+51848	50787	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+52894	52823	gene
+			gene	trnT-GGU
+52894	52823	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+53142	53214	gene
+			gene	trnE-UUC
+53142	53214	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+53274	53357	gene
+			gene	trnY-GUA
+53274	53357	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+53714	53787	gene
+			gene	trnD-GUC
+53714	53787	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+54680	54784	gene
+			gene	psbM
+54680	54784	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+55242	55153	gene
+			gene	petN
+55242	55153	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+56550	56480	gene
+			gene	trnC-GCA
+56550	56480	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+57531	60743	gene
+			gene	rpoB
+57531	60743	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+60770	63567	gene
+			gene	rpoC1
+60770	61201	CDS
+61957	63567
+			product	
+			codon_start	1
+			transl_table	11
+
+63738	67883	gene
+			gene	rpoC2
+63738	67883	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+68100	68810	gene
+			gene	rps2
+68100	68810	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+69069	69803	gene
+			gene	atpI
+69069	69803	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+70669	70914	gene
+			gene	atpH
+70669	70914	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+71339	72662	gene
+			gene	atpF
+71339	71483	CDS
+72253	72662
+			product	
+			codon_start	1
+			transl_table	11
+
+72742	74265	gene
+			gene	atpA
+72742	74265	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+74458	74387	gene
+			gene	trnR-UCU
+74458	74387	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+75392	74624	gene
+			gene	trnG-UCC
+75392	75370	tRNA
+74671	74624
+			product	
+			codon_start	1
+			transl_table	11
+
+76232	76319	gene
+			gene	trnS-GCU
+76232	76319	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+76571	76461	gene
+			gene	psbI
+76571	76461	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+77178	76993	gene
+			gene	psbK
+77178	76993	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+77524	77595	gene
+			gene	trnQ-UUG
+77524	77595	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+78470	79508	gene
+			gene	rps16
+78470	78509	CDS
+79315	79508
+			product	
+			codon_start	1
+			transl_table	11
+
+80130	82842	gene
+			gene	trnK-UUU
+80130	80166	tRNA
+82808	82842
+			product	
+			codon_start	1
+			transl_table	11
+
+80978	82528	gene
+			gene	matK
+80978	82528	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+83111	84172	gene
+			gene	psbA
+83111	84172	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+84528	84602	gene
+			gene	trnH-GUG
+84528	84602	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+86130	84646	gene
+			gene	rpl2
+86130	85740	CDS
+85076	84646
+			product	
+			codon_start	1
+			transl_table	11
+
+86434	86153	gene
+			gene	rpl23
+86434	86153	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+86673	86600	gene
+			gene	trnI-CAU
+86673	86600	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+86733	93719	gene
+			gene	ycf2
+86733	93719	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+94208	94128	gene
+			gene	trnL-CAA
+94208	94128	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+96968	94792	gene
+			gene	ndhB
+96968	96246	CDS
+95547	94792
+			product	
+			codon_start	1
+			transl_table	11
+
+97820	97353	gene
+			gene	rps7
+97820	97353	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+99507	97879	gene
+			gene	rps12B
+98677	98446	CDS
+97904	97879
+			product	
+			codon_start	1
+			transl_table	11
+
+100547	100618	gene
+			gene	trnV-GAC
+100547	100618	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+100847	102337	gene
+			gene	rrn16
+			product	
+			codon_start	1
+			transl_table	11
+
+102636	103650	gene
+			gene	trnI-GAU
+102636	102672	tRNA
+103616	103650
+			product	
+			codon_start	1
+			transl_table	11
+
+103715	104587	gene
+			gene	trnA-UGC
+103715	103752	tRNA
+104553	104587
+			product	
+			codon_start	1
+			transl_table	11
+
+104733	107543	gene
+			gene	rrn23
+			product	
+			codon_start	1
+			transl_table	11
+
+107641	107743	gene
+			gene	rrn4.5
+			product	
+			codon_start	1
+			transl_table	11
+
+107969	108089	gene
+			gene	rrn5
+			product	
+			codon_start	1
+			transl_table	11
+
+108349	108422	gene
+			gene	trnR-ACG
+108349	108422	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+109039	108968	gene
+			gene	trnN-GUU
+109039	108968	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+114449	112239	gene
+			gene	ndhF
+114449	112239	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+115320	115493	gene
+			gene	rpl32
+115320	115493	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+116348	116427	gene
+			gene	trnL-UAG
+116348	116427	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+116510	117463	gene
+			gene	ccsA
+116510	117463	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+119241	117739	gene
+			gene	ndhD
+119241	117739	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+119617	119372	gene
+			gene	psaC
+119617	119372	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+120385	120080	gene
+			gene	ndhE
+120385	120080	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+121093	120563	gene
+			gene	ndhG
+121093	120563	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+122076	121528	gene
+			gene	ndhI
+122076	121528	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+124285	122166	gene
+			gene	ndhA
+124285	123733	CDS
+122704	122166
+			product	
+			codon_start	1
+			transl_table	11
+
+125468	124287	gene
+			gene	ndhH
+125468	124287	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+125848	125576	gene
+			gene	rps15
+125848	125576	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+131953	126269	gene
+			gene	ycf1
+131953	126269	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+132272	132343	gene
+			gene	trnN-GUU
+132272	132343	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+132962	132889	gene
+			gene	trnR-ACG
+132962	132889	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+133342	133222	gene
+			gene	rrn5
+			product	
+			codon_start	1
+			transl_table	11
+
+133670	133568	gene
+			gene	rrn4.5
+			product	
+			codon_start	1
+			transl_table	11
+
+136578	133768	gene
+			gene	rrn23
+			product	
+			codon_start	1
+			transl_table	11
+
+137596	136724	gene
+			gene	trnA-UGC
+137596	137559	tRNA
+136758	136724
+			product	
+			codon_start	1
+			transl_table	11
+
+138675	137661	gene
+			gene	trnI-GAU
+138675	138639	tRNA
+137695	137661
+			product	
+			codon_start	1
+			transl_table	11
+
+140464	138974	gene
+			gene	rrn16
+			product	
+			codon_start	1
+			transl_table	11
+
+140764	140693	gene
+			gene	trnV-GAC
+140764	140693	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+141804	143432	gene
+			gene	rps12B
+142634	142865	CDS
+143407	143432
+			product	
+			codon_start	1
+			transl_table	11
+
+143491	143958	gene
+			gene	rps7
+143491	143958	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+144343	146519	gene
+			gene	ndhB
+144343	145065	CDS
+145764	146519
+			product	
+			codon_start	1
+			transl_table	11
+
+147103	147183	gene
+			gene	trnL-CAA
+147103	147183	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+154578	147592	gene
+			gene	ycf2
+154578	147592	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+154638	154711	gene
+			gene	trnI-CAU
+154638	154711	tRNA
+			product	
+			codon_start	1
+			transl_table	11
+
+154877	155158	gene
+			gene	rpl23
+154877	155158	CDS
+			product	
+			codon_start	1
+			transl_table	11
+
+155181	156665	gene
+			gene	rpl2
+155181	155571	CDS
+156235	156665
+			product	
+			codon_start	1
+			transl_table	11
+
+156783	156709	gene
+			gene	trnH-GUG
+156783	156709	tRNA
+			product	
+			codon_start	1
+			transl_table	11

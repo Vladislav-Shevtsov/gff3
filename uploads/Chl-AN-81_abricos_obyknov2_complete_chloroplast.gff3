@@ -1,0 +1,451 @@
+##gff-version 3.2.1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	region	1	158089	.	+	0	Is_circular=true
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	source	1	158089	.	+	1	ID=source-null;gbkey=source
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	156	581	4.000e-03	+	.	ID=rpl22;Name=rpl22
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	156	581	4.000e-03	+	0	ID=rpl22.CDS.1;Parent=rpl22
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	711	1367	1.000e-03	+	.	ID=rps3;Name=rps3
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	711	1367	1.000e-03	+	0	ID=rps3.CDS.1;Parent=rps3
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	1515	2934	8.000e-03	+	.	ID=rpl16;Name=rpl16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	1515	1523	1.000e-02	+	0	ID=rpl16.CDS.1;Parent=rpl16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	1524	2535	1.000e-02	+	.	ID=rpl16.intron.2;Parent=rpl16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	2536	2934	6.000e-03	+	0	ID=rpl16.CDS.3;Parent=rpl16
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	3070	3438	1.000e-03	+	.	ID=rpl14;Name=rpl14
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	3070	3438	1.000e-03	+	0	ID=rpl14.CDS.1;Parent=rpl14
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	3614	4018	2.000e-03	+	.	ID=rps8;Name=rps8
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	3614	4018	2.000e-03	+	0	ID=rps8.CDS.1;Parent=rps8
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	4482	4595	1.000e-03	+	.	ID=rpl36;Name=rpl36
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	4482	4595	1.000e-03	+	0	ID=rpl36.CDS.1;Parent=rpl36
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	4735	5151	1.000e-03	+	.	ID=rps11;Name=rps11
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	4735	5151	1.000e-03	+	0	ID=rps11.CDS.1;Parent=rps11
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	5216	6196	0.000e+00	+	.	ID=rpoA;Name=rpoA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	5216	6196	0.000e+00	+	0	ID=rpoA.CDS.1;Parent=rpoA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	6432	7658	1.500e-03	-	.	ID=petD;Name=petD
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	7651	7658	2.000e-03	-	0	ID=petD.CDS.1;Parent=petD
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	6907	7650	2.000e-03	-	.	ID=petD.intron.2;Parent=petD
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	6432	6906	1.000e-03	-	1	ID=petD.CDS.3;Parent=petD
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	7846	9247	1.000e-03	-	.	ID=petB;Name=petB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	9242	9247	2.000e-03	-	0	ID=petB.CDS.1;Parent=petB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	8488	9241	2.000e-03	-	.	ID=petB.intron.2;Parent=petB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	7846	8487	0.000e+00	-	0	ID=petB.CDS.3;Parent=petB
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	9370	9594	1.000e-03	-	.	ID=psbH;Name=psbH
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	9370	9594	1.000e-03	-	0	ID=psbH.CDS.1;Parent=psbH
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	9713	9844	1.000e-03	+	.	ID=pbf1;Name=pbf1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	9713	9844	1.000e-03	+	0	ID=pbf1.CDS.1;Parent=pbf1
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	9906	10013	1.000e-03	-	.	ID=psbT;Name=psbT
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	9906	10013	1.000e-03	-	0	ID=psbT.CDS.1;Parent=psbT
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	10199	11725	0.000e+00	-	.	ID=psbB;Name=psbB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	10199	11725	0.000e+00	-	0	ID=psbB.CDS.1;Parent=psbB
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	12177	14228	5.049e-01	+	.	ID=clpP1;Name=clpP1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	12177	12247	1.700e-02	+	0	ID=clpP1.CDS.1;Parent=clpP1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	12248	13057	2.900e-02	+	.	ID=clpP1.intron.2;Parent=clpP1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	13058	13349	6.000e-03	+	1	ID=clpP1.CDS.3;Parent=clpP1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	13350	14000	2.900e-02	+	.	ID=clpP1.intron.4;Parent=clpP1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	14001	14228	9.000e-03	+	0	ID=clpP1.CDS.5;Parent=clpP1
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	14417	15204	2.000e-03	+	.	ID=rps12A;Name=rps12A
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	14417	14530	2.000e-03	+	0	ID=rps12A.CDS.1;Parent=rps12A
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	14531	15204	4.000e-03	+	.	ID=rps12A.intron.2;Parent=rps12A
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	15316	15669	0.000e+00	+	.	ID=rpl20;Name=rpl20
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	15316	15669	0.000e+00	+	0	ID=rpl20.CDS.1;Parent=rpl20
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	15807	16109	1.000e-03	-	.	ID=rps18;Name=rps18
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	15807	16109	1.000e-03	-	0	ID=rps18.CDS.1;Parent=rps18
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	16282	16482	1.000e-03	-	.	ID=rpl33;Name=rpl33
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	16282	16482	1.000e-03	-	0	ID=rpl33.CDS.1;Parent=rpl33
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	16949	17083	1.000e-03	-	.	ID=psaJ;Name=psaJ
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	16949	17083	1.000e-03	-	0	ID=psaJ.CDS.1;Parent=psaJ
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	17469	17542	1.000e-03	+	.	ID=trnP-UGG;Name=trnP-UGG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	17469	17542	1.000e-03	+	.	ID=trnP-UGG.tRNA.1;Parent=trnP-UGG
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	17679	17752	1.000e-03	+	.	ID=trnW-CCA;Name=trnW-CCA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	17679	17752	1.000e-03	+	.	ID=trnW-CCA.tRNA.1;Parent=trnW-CCA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	17878	17991	1.000e-03	-	.	ID=petG;Name=petG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	17878	17991	1.000e-03	-	0	ID=petG.CDS.1;Parent=petG
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	18168	18263	1.000e-03	-	.	ID=petL;Name=petL
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	18168	18263	1.000e-03	-	0	ID=petL.CDS.1;Parent=petL
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	19557	19808	1.000e-03	+	.	ID=psbE;Name=psbE
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	19557	19808	1.000e-03	+	0	ID=psbE.CDS.1;Parent=psbE
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	19818	19937	1.000e-03	+	.	ID=psbF;Name=psbF
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	19818	19937	1.000e-03	+	0	ID=psbF.CDS.1;Parent=psbF
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	19960	20076	1.000e-03	+	.	ID=psbL;Name=psbL
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	19960	20076	1.000e-03	+	0	ID=psbL.CDS.1;Parent=psbL
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	20196	20318	1.000e-03	+	.	ID=psbJ;Name=psbJ
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	20196	20318	1.000e-03	+	0	ID=psbJ.CDS.1;Parent=psbJ
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	21275	22237	0.000e+00	-	.	ID=petA;Name=petA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	21275	22237	0.000e+00	-	0	ID=petA.CDS.1;Parent=petA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	22452	23141	0.000e+00	-	.	ID=cemA;Name=cemA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	22452	23141	0.000e+00	-	0	ID=cemA.CDS.1;Parent=cemA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	23703	24257	0.000e+00	-	.	ID=pafII;Name=pafII
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	23703	24257	0.000e+00	-	0	ID=pafII.CDS.1;Parent=pafII
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	24663	24776	8.000e-03	-	.	ID=psaI;Name=psaI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	24663	24776	8.000e-03	-	0	ID=psaI.CDS.1;Parent=psaI
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	25560	27035	1.000e-03	-	.	ID=accD;Name=accD
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	25560	27035	1.000e-03	-	0	ID=accD.CDS.1;Parent=accD
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	27653	29080	0.000e+00	-	.	ID=rbcL;Name=rbcL
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	27653	29080	0.000e+00	-	0	ID=rbcL.CDS.1;Parent=rbcL
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	29815	31293	1.000e-03	+	.	ID=atpB;Name=atpB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	29815	31293	1.000e-03	+	0	ID=atpB.CDS.1;Parent=atpB
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	31316	31717	1.000e-03	+	.	ID=atpE;Name=atpE
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	31316	31717	1.000e-03	+	0	ID=atpE.CDS.1;Parent=atpE
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	31965	32037	0.000e+00	-	.	ID=trnM-CAU;Name=trnM-CAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	31965	32037	0.000e+00	-	.	ID=trnM-CAU.tRNA.1;Parent=trnM-CAU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	32211	32876	5.500e-03	+	.	ID=trnV-UAC;Name=trnV-UAC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	32211	32249	2.000e-03	+	.	ID=trnV-UAC.tRNA.1;Parent=trnV-UAC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	32250	32841	1.000e-03	+	.	ID=trnV-UAC.intron.2;Parent=trnV-UAC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	32842	32876	9.000e-03	+	.	ID=trnV-UAC.tRNA.3;Parent=trnV-UAC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	33525	33887	0.000e+00	+	.	ID=ndhC;Name=ndhC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	33525	33887	0.000e+00	+	0	ID=ndhC.CDS.1;Parent=ndhC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	33941	34621	1.000e-03	+	.	ID=ndhK;Name=ndhK
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	33941	34621	1.000e-03	+	0	ID=ndhK.CDS.1;Parent=ndhK
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	34749	35225	0.000e+00	+	.	ID=ndhJ;Name=ndhJ
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	34749	35225	0.000e+00	+	0	ID=ndhJ.CDS.1;Parent=ndhJ
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	35968	36040	0.000e+00	-	.	ID=trnF-GAA;Name=trnF-GAA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	35968	36040	0.000e+00	-	.	ID=trnF-GAA.tRNA.1;Parent=trnF-GAA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	36420	37020	2.500e-03	-	.	ID=trnL-UAA;Name=trnL-UAA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	36986	37020	5.000e-03	-	.	ID=trnL-UAA.tRNA.1;Parent=trnL-UAA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	36470	36985	3.000e-03	-	.	ID=trnL-UAA.intron.2;Parent=trnL-UAA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	36420	36469	0.000e+00	-	.	ID=trnL-UAA.tRNA.3;Parent=trnL-UAA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	37947	38019	1.000e-03	+	.	ID=trnT-UGU;Name=trnT-UGU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	37947	38019	1.000e-03	+	.	ID=trnT-UGU.tRNA.1;Parent=trnT-UGU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	38404	39009	0.000e+00	+	.	ID=rps4;Name=rps4
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	38404	39009	0.000e+00	+	0	ID=rps4.CDS.1;Parent=rps4
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	39303	39389	0.000e+00	-	.	ID=trnS-GGA;Name=trnS-GGA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	39303	39389	0.000e+00	-	.	ID=trnS-GGA.tRNA.1;Parent=trnS-GGA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	40012	41996	5.008e-01	+	.	ID=pafI;Name=pafI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	40012	40135	2.000e-03	+	0	ID=pafI.CDS.1;Parent=pafI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	40136	40850	2.000e-03	+	.	ID=pafI.intron.2;Parent=pafI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	40851	41080	4.000e-03	+	2	ID=pafI.CDS.3;Parent=pafI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	41081	41843	1.000e-03	+	.	ID=pafI.intron.4;Parent=pafI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	41844	41996	1.000e-03	+	0	ID=pafI.CDS.5;Parent=pafI
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	42701	44953	0.000e+00	+	.	ID=psaA;Name=psaA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	42701	44953	0.000e+00	+	0	ID=psaA.CDS.1;Parent=psaA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	44979	47183	0.000e+00	+	.	ID=psaB;Name=psaB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	44979	47183	0.000e+00	+	0	ID=psaB.CDS.1;Parent=psaB
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	47315	47617	0.000e+00	+	.	ID=rps14;Name=rps14
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	47315	47617	0.000e+00	+	0	ID=rps14.CDS.1;Parent=rps14
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	47780	47853	3.000e-03	+	.	ID=trnfM-CAU;Name=trnfM-CAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	47780	47853	3.000e-03	+	.	ID=trnfM-CAU.tRNA.1;Parent=trnfM-CAU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	48011	48081	1.000e-03	-	.	ID=trnG-GCC;Name=trnG-GCC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	48011	48081	1.000e-03	-	.	ID=trnG-GCC.tRNA.1;Parent=trnG-GCC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	48337	48525	0.000e+00	-	.	ID=psbZ;Name=psbZ
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	48337	48525	0.000e+00	-	0	ID=psbZ.CDS.1;Parent=psbZ
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	48872	48964	1.000e-03	+	.	ID=trnS-UGA;Name=trnS-UGA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	48872	48964	1.000e-03	+	.	ID=trnS-UGA.tRNA.1;Parent=trnS-UGA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	49220	50605	0.000e+00	-	.	ID=psbC;Name=psbC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	49220	50605	0.000e+00	-	0	ID=psbC.CDS.1;Parent=psbC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	50589	51650	0.000e+00	-	.	ID=psbD;Name=psbD
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	50589	51650	0.000e+00	-	0	ID=psbD.CDS.1;Parent=psbD
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	52881	52952	1.000e-03	-	.	ID=trnT-GGU;Name=trnT-GGU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	52881	52952	1.000e-03	-	.	ID=trnT-GGU.tRNA.1;Parent=trnT-GGU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	53399	53471	1.000e-03	+	.	ID=trnE-UUC;Name=trnE-UUC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	53399	53471	1.000e-03	+	.	ID=trnE-UUC.tRNA.1;Parent=trnE-UUC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	53531	53614	0.000e+00	+	.	ID=trnY-GUA;Name=trnY-GUA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	53531	53614	0.000e+00	+	.	ID=trnY-GUA.tRNA.1;Parent=trnY-GUA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	54051	54124	1.000e-03	+	.	ID=trnD-GUC;Name=trnD-GUC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	54051	54124	1.000e-03	+	.	ID=trnD-GUC.tRNA.1;Parent=trnD-GUC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	55310	55414	1.000e-03	+	.	ID=psbM;Name=psbM
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	55310	55414	1.000e-03	+	0	ID=psbM.CDS.1;Parent=psbM
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	56627	56716	0.000e+00	-	.	ID=petN;Name=petN
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	56627	56716	0.000e+00	-	0	ID=petN.CDS.1;Parent=petN
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	57635	57705	1.000e-03	-	.	ID=trnC-GCA;Name=trnC-GCA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	57635	57705	1.000e-03	-	.	ID=trnC-GCA.tRNA.1;Parent=trnC-GCA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	58879	62091	0.000e+00	+	.	ID=rpoB;Name=rpoB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	58879	62091	0.000e+00	+	0	ID=rpoB.CDS.1;Parent=rpoB
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	62123	64928	1.500e-03	+	.	ID=rpoC1;Name=rpoC1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	62123	62554	1.000e-03	+	0	ID=rpoC1.CDS.1;Parent=rpoC1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	62555	63311	2.000e-03	+	.	ID=rpoC1.intron.2;Parent=rpoC1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	63312	64928	2.000e-03	+	0	ID=rpoC1.CDS.3;Parent=rpoC1
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	65106	69212	0.000e+00	+	.	ID=rpoC2;Name=rpoC2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	65106	69212	0.000e+00	+	0	ID=rpoC2.CDS.1;Parent=rpoC2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	69478	70188	0.000e+00	+	.	ID=rps2;Name=rps2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	69478	70188	0.000e+00	+	0	ID=rps2.CDS.1;Parent=rps2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	70409	71152	0.000e+00	+	.	ID=atpI;Name=atpI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	70409	71152	0.000e+00	+	0	ID=atpI.CDS.1;Parent=atpI
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	72346	72591	1.000e-03	+	.	ID=atpH;Name=atpH
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	72346	72591	1.000e-03	+	0	ID=atpH.CDS.1;Parent=atpH
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	73029	74327	1.500e-03	+	.	ID=atpF;Name=atpF
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	73029	73173	1.000e-03	+	0	ID=atpF.CDS.1;Parent=atpF
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	73174	73917	2.000e-03	+	.	ID=atpF.intron.2;Parent=atpF
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	73918	74327	2.000e-03	+	2	ID=atpF.CDS.3;Parent=atpF
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	74382	75905	0.000e+00	+	.	ID=atpA;Name=atpA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	74382	75905	0.000e+00	+	0	ID=atpA.CDS.1;Parent=atpA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	76375	76446	0.000e+00	-	.	ID=trnR-UCU;Name=trnR-UCU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	76375	76446	0.000e+00	-	.	ID=trnR-UCU.tRNA.1;Parent=trnR-UCU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	76584	77369	2.500e-02	-	.	ID=trnG-UCC;Name=trnG-UCC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	77347	77369	2.500e-02	-	.	ID=trnG-UCC.tRNA.1;Parent=trnG-UCC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	76632	77346	9.000e-03	-	.	ID=trnG-UCC.intron.2;Parent=trnG-UCC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	76584	76631	2.500e-02	-	.	ID=trnG-UCC.tRNA.3;Parent=trnG-UCC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	78048	78135	1.000e-03	+	.	ID=trnS-GCU;Name=trnS-GCU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	78048	78135	1.000e-03	+	.	ID=trnS-GCU.tRNA.1;Parent=trnS-GCU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	78273	78383	2.000e-03	-	.	ID=psbI;Name=psbI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	78273	78383	2.000e-03	-	0	ID=psbI.CDS.1;Parent=psbI
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	78614	78793	1.000e-03	-	.	ID=psbK;Name=psbK
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	78614	78793	1.000e-03	-	0	ID=psbK.CDS.1;Parent=psbK
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	79185	79256	1.000e-03	+	.	ID=trnQ-UUG;Name=trnQ-UUG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	79185	79256	1.000e-03	+	.	ID=trnQ-UUG.tRNA.1;Parent=trnQ-UUG
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	79914	81047	2.500e-02	+	.	ID=rps16;Name=rps16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	79914	79953	3.100e-02	+	0	ID=rps16.CDS.1;Parent=rps16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	79954	80817	1.100e-02	+	.	ID=rps16.intron.2;Parent=rps16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	80818	81047	1.900e-02	+	0	ID=rps16.CDS.3;Parent=rps16
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	81993	84602	7.500e-03	+	.	ID=trnK-UUU;Name=trnK-UUU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	81993	82029	9.000e-03	+	.	ID=trnK-UUU.tRNA.1;Parent=trnK-UUU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	82030	84567	1.000e-03	+	.	ID=trnK-UUU.intron.2;Parent=trnK-UUU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	84568	84602	6.000e-03	+	.	ID=trnK-UUU.tRNA.3;Parent=trnK-UUU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	82771	84291	1.000e-03	+	.	ID=matK;Name=matK
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	82771	84291	1.000e-03	+	0	ID=matK.CDS.1;Parent=matK
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	84861	85922	1.000e-03	+	.	ID=psbA;Name=psbA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	84861	85922	1.000e-03	+	0	ID=psbA.CDS.1;Parent=psbA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	86189	86263	2.000e-03	+	.	ID=trnH-GUG;Name=trnH-GUG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	86189	86263	2.000e-03	+	.	ID=trnH-GUG.tRNA.1;Parent=trnH-GUG
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	repeat_region	86314	112701	.	+	.	ID=IR-1;Name=IR-1
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	86574	88075	1.900e-02	-	.	ID=rpl2-2;Name=rpl2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	87691	88075	2.100e-02	-	0	ID=rpl2-2.CDS.1;Parent=rpl2-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	87008	87690	1.400e-02	-	.	ID=rpl2-2.intron.2;Parent=rpl2-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	86574	87007	1.700e-02	-	2	ID=rpl2-2.CDS.3;Parent=rpl2-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	88094	88375	1.000e-03	-	.	ID=rpl23-2;Name=rpl23
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	88094	88375	1.000e-03	-	0	ID=rpl23-2.CDS.1;Parent=rpl23-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	88541	88614	1.000e-03	-	.	ID=trnI-CAU-2;Name=trnI-CAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	88541	88614	1.000e-03	-	.	ID=trnI-CAU-2.tRNA.1;Parent=trnI-CAU-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	88703	95536	4.900e-02	+	.	ID=ycf2;Name=ycf2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	88703	95536	4.900e-02	+	0	ID=ycf2.CDS.1;Parent=ycf2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	96489	96569	0.000e+00	-	.	ID=trnL-CAA-2;Name=trnL-CAA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	96489	96569	0.000e+00	-	.	ID=trnL-CAA-2.tRNA.1;Parent=trnL-CAA-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	97189	99347	2.000e-03	-	.	ID=ndhB-2;Name=ndhB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	98625	99347	2.000e-03	-	0	ID=ndhB-2.CDS.1;Parent=ndhB-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	97945	98624	3.000e-03	-	.	ID=ndhB-2.intron.2;Parent=ndhB-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	97189	97944	2.000e-03	-	0	ID=ndhB-2.CDS.3;Parent=ndhB-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	99723	100190	0.000e+00	-	.	ID=rps7-2;Name=rps7
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	99723	100190	0.000e+00	-	0	ID=rps7-2.CDS.1;Parent=rps7-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	100243	101726	5.500e-03	-	.	ID=rps12B-2;Name=rps12B
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	101037	101726	7.000e-03	-	.	ID=rps12B-2.intron.1;Parent=rps12B-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	100805	101036	7.000e-03	-	0	ID=rps12B-2.CDS.2;Parent=rps12B-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	100269	100804	8.000e-03	-	.	ID=rps12B-2.intron.3;Parent=rps12B-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	100243	100268	4.000e-03	-	2	ID=rps12B-2.CDS.4;Parent=rps12B-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	102737	102808	1.000e-03	+	.	ID=trnV-GAC;Name=trnV-GAC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	102737	102808	1.000e-03	+	.	ID=trnV-GAC.tRNA.1;Parent=trnV-GAC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	103036	104526	2.000e-03	+	.	ID=rrn16;Name=rrn16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	103036	104526	2.000e-03	+	.	ID=rrn16.rRNA.1;Parent=rrn16
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	104823	105842	9.000e-03	+	.	ID=trnI-GAU;Name=trnI-GAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	104823	104859	9.000e-03	+	.	ID=trnI-GAU.tRNA.1;Parent=trnI-GAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	104860	105807	9.000e-03	+	.	ID=trnI-GAU.intron.2;Parent=trnI-GAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	105808	105842	9.000e-03	+	.	ID=trnI-GAU.tRNA.3;Parent=trnI-GAU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	105907	106786	9.000e-03	+	.	ID=trnA-UGC;Name=trnA-UGC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	105907	105944	9.000e-03	+	.	ID=trnA-UGC.tRNA.1;Parent=trnA-UGC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	105945	106751	1.100e-02	+	.	ID=trnA-UGC.intron.2;Parent=trnA-UGC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	106752	106786	9.000e-03	+	.	ID=trnA-UGC.tRNA.3;Parent=trnA-UGC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	106950	109758	2.000e-03	+	.	ID=rrn23;Name=rrn23
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	106950	109758	2.000e-03	+	.	ID=rrn23.rRNA.1;Parent=rrn23
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	109857	109959	2.000e-03	+	.	ID=rrn4.5;Name=rrn4.5
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	109857	109959	2.000e-03	+	.	ID=rrn4.5.rRNA.1;Parent=rrn4.5
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	110213	110333	1.000e-03	+	.	ID=rrn5;Name=rrn5
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	110213	110333	1.000e-03	+	.	ID=rrn5.rRNA.1;Parent=rrn5
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	110591	110664	1.000e-03	+	.	ID=trnR-ACG;Name=trnR-ACG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	110591	110664	1.000e-03	+	.	ID=trnR-ACG.tRNA.1;Parent=trnR-ACG
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	111255	111326	0.000e+00	-	.	ID=trnN-GUU-2;Name=trnN-GUU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	111255	111326	0.000e+00	-	.	ID=trnN-GUU-2.tRNA.1;Parent=trnN-GUU-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	111652	117288	2.000e-02	+	.	ID=ycf1;Name=ycf1
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	111652	117288	2.000e-02	+	0	ID=ycf1.CDS.1;Parent=ycf1
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	117694	117966	3.000e-03	+	.	ID=rps15;Name=rps15
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	117694	117966	3.000e-03	+	0	ID=rps15.CDS.1;Parent=rps15
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	118070	119251	0.000e+00	+	.	ID=ndhH;Name=ndhH
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	118070	119251	0.000e+00	+	0	ID=ndhH.CDS.1;Parent=ndhH
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	119253	121485	1.800e-02	+	.	ID=ndhA;Name=ndhA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	119253	119805	3.400e-02	+	0	ID=ndhA.CDS.1;Parent=ndhA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	119806	120946	2.100e-02	+	.	ID=ndhA.intron.2;Parent=ndhA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	120947	121485	2.000e-03	+	2	ID=ndhA.CDS.3;Parent=ndhA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	121558	122061	1.000e-03	+	.	ID=ndhI;Name=ndhI
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	121558	122061	1.000e-03	+	0	ID=ndhI.CDS.1;Parent=ndhI
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	122475	123005	0.000e+00	+	.	ID=ndhG;Name=ndhG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	122475	123005	0.000e+00	+	0	ID=ndhG.CDS.1;Parent=ndhG
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	123245	123550	0.000e+00	+	.	ID=ndhE;Name=ndhE
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	123245	123550	0.000e+00	+	0	ID=ndhE.CDS.1;Parent=ndhE
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	123810	124055	2.000e-03	+	.	ID=psaC;Name=psaC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	123810	124055	2.000e-03	+	0	ID=psaC.CDS.1;Parent=psaC
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	124177	125679	0.000e+00	+	.	ID=ndhD;Name=ndhD
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	124177	125679	0.000e+00	+	0	ID=ndhD.CDS.1;Parent=ndhD
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	125972	126934	0.000e+00	-	.	ID=ccsA;Name=ccsA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	125972	126934	0.000e+00	-	0	ID=ccsA.CDS.1;Parent=ccsA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	127023	127102	1.000e-03	-	.	ID=trnL-UAG;Name=trnL-UAG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	127023	127102	1.000e-03	-	.	ID=trnL-UAG.tRNA.1;Parent=trnL-UAG
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	128429	128587	4.000e-03	-	.	ID=rpl32;Name=rpl32
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	128429	128587	4.000e-03	-	0	ID=rpl32.CDS.1;Parent=rpl32
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	129482	131719	1.000e-03	+	.	ID=ndhF;Name=ndhF
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	129482	131719	1.000e-03	+	0	ID=ndhF.CDS.1;Parent=ndhF
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	repeat_region	131702	158089	.	-	.	ID=IR-2;Name=IR-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	133077	133148	0.000e+00	+	.	ID=trnN-GUU;Name=trnN-GUU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	133077	133148	0.000e+00	+	.	ID=trnN-GUU.tRNA.1;Parent=trnN-GUU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	133739	133812	1.000e-03	-	.	ID=trnR-ACG-2;Name=trnR-ACG
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	133739	133812	1.000e-03	-	.	ID=trnR-ACG-2.tRNA.1;Parent=trnR-ACG-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	134070	134190	1.000e-03	-	.	ID=rrn5-2;Name=rrn5
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	134070	134190	1.000e-03	-	.	ID=rrn5-2.rRNA.1;Parent=rrn5-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	134444	134546	2.000e-03	-	.	ID=rrn4.5-2;Name=rrn4.5
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	134444	134546	2.000e-03	-	.	ID=rrn4.5-2.rRNA.1;Parent=rrn4.5-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	134645	137453	2.000e-03	-	.	ID=rrn23-2;Name=rrn23
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	134645	137453	2.000e-03	-	.	ID=rrn23-2.rRNA.1;Parent=rrn23-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	137617	138496	9.000e-03	-	.	ID=trnA-UGC-2;Name=trnA-UGC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	138459	138496	9.000e-03	-	.	ID=trnA-UGC-2.tRNA.1;Parent=trnA-UGC-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	137652	138458	1.100e-02	-	.	ID=trnA-UGC-2.intron.2;Parent=trnA-UGC-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	137617	137651	9.000e-03	-	.	ID=trnA-UGC-2.tRNA.3;Parent=trnA-UGC-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	138561	139580	9.000e-03	-	.	ID=trnI-GAU-2;Name=trnI-GAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	139544	139580	9.000e-03	-	.	ID=trnI-GAU-2.tRNA.1;Parent=trnI-GAU-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	138596	139543	9.000e-03	-	.	ID=trnI-GAU-2.intron.2;Parent=trnI-GAU-2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	138561	138595	9.000e-03	-	.	ID=trnI-GAU-2.tRNA.3;Parent=trnI-GAU-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	139877	141367	2.000e-03	-	.	ID=rrn16-2;Name=rrn16
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	rRNA	139877	141367	2.000e-03	-	.	ID=rrn16-2.rRNA.1;Parent=rrn16-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	141595	141666	1.000e-03	-	.	ID=trnV-GAC-2;Name=trnV-GAC
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	141595	141666	1.000e-03	-	.	ID=trnV-GAC-2.tRNA.1;Parent=trnV-GAC-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	142677	144160	5.500e-03	+	.	ID=rps12B;Name=rps12B
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	142677	143366	7.000e-03	+	.	ID=rps12B.intron.1;Parent=rps12B
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	143367	143598	7.000e-03	+	0	ID=rps12B.CDS.2;Parent=rps12B
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	143599	144134	8.000e-03	+	.	ID=rps12B.intron.3;Parent=rps12B
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	144135	144160	4.000e-03	+	2	ID=rps12B.CDS.4;Parent=rps12B
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	144213	144680	0.000e+00	+	.	ID=rps7;Name=rps7
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	144213	144680	0.000e+00	+	0	ID=rps7.CDS.1;Parent=rps7
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	145056	147214	2.000e-03	+	.	ID=ndhB;Name=ndhB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	145056	145778	2.000e-03	+	0	ID=ndhB.CDS.1;Parent=ndhB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	145779	146458	3.000e-03	+	.	ID=ndhB.intron.2;Parent=ndhB
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	146459	147214	2.000e-03	+	0	ID=ndhB.CDS.3;Parent=ndhB
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	147834	147914	0.000e+00	+	.	ID=trnL-CAA;Name=trnL-CAA
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	147834	147914	0.000e+00	+	.	ID=trnL-CAA.tRNA.1;Parent=trnL-CAA
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	148867	155700	4.900e-02	-	.	ID=ycf2-2;Name=ycf2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	148867	155700	4.900e-02	-	0	ID=ycf2-2.CDS.1;Parent=ycf2-2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	155789	155862	1.000e-03	+	.	ID=trnI-CAU;Name=trnI-CAU
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	tRNA	155789	155862	1.000e-03	+	.	ID=trnI-CAU.tRNA.1;Parent=trnI-CAU
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	156028	156309	1.000e-03	+	.	ID=rpl23;Name=rpl23
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	156028	156309	1.000e-03	+	0	ID=rpl23.CDS.1;Parent=rpl23
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	156328	157829	1.400e-02	+	.	ID=rpl2;Name=rpl2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	156328	156712	2.100e-02	+	0	ID=rpl2.CDS.1;Parent=rpl2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	intron	156713	157395	1.400e-02	+	.	ID=rpl2.intron.2;Parent=rpl2
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	157396	157829	7.000e-03	+	2	ID=rpl2.CDS.3;Parent=rpl2
+###
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	gene	157900	158178	6.500e-02	+	.	ID=rps19;Name=rps19
+Chl-AN-81_abricos_obyknov2_complete_chloroplast	Chloe	CDS	157900	89	6.500e-02	+	0	ID=rps19.CDS.1;Parent=rps19
+###

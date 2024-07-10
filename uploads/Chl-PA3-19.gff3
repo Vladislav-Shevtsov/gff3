@@ -1,0 +1,451 @@
+##gff-version 3.2.1
+Chl-PA3-19	Chloe	region	1	157002	.	+	0	Is_circular=true
+Chl-PA3-19	Chloe	source	1	157002	.	+	1	ID=source-null;gbkey=source
+###
+Chl-PA3-19	Chloe	gene	307	687	3.000e-03	+	.	ID=rpl22;Name=rpl22
+Chl-PA3-19	Chloe	CDS	307	687	3.000e-03	+	0	ID=rpl22.CDS.1;Parent=rpl22
+###
+Chl-PA3-19	Chloe	gene	745	1401	1.000e-03	+	.	ID=rps3;Name=rps3
+Chl-PA3-19	Chloe	CDS	745	1401	1.000e-03	+	0	ID=rps3.CDS.1;Parent=rps3
+###
+Chl-PA3-19	Chloe	gene	1523	2918	1.100e-02	+	.	ID=rpl16;Name=rpl16
+Chl-PA3-19	Chloe	CDS	1523	1531	1.000e-02	+	0	ID=rpl16.CDS.1;Parent=rpl16
+Chl-PA3-19	Chloe	intron	1532	2519	1.100e-02	+	.	ID=rpl16.intron.2;Parent=rpl16
+Chl-PA3-19	Chloe	CDS	2520	2918	1.200e-02	+	0	ID=rpl16.CDS.3;Parent=rpl16
+###
+Chl-PA3-19	Chloe	gene	3036	3404	3.000e-03	+	.	ID=rpl14;Name=rpl14
+Chl-PA3-19	Chloe	CDS	3036	3404	3.000e-03	+	0	ID=rpl14.CDS.1;Parent=rpl14
+###
+Chl-PA3-19	Chloe	gene	3598	3996	6.000e-03	+	.	ID=rps8;Name=rps8
+Chl-PA3-19	Chloe	CDS	3598	3996	6.000e-03	+	0	ID=rps8.CDS.1;Parent=rps8
+###
+Chl-PA3-19	Chloe	gene	4469	4582	1.000e-03	+	.	ID=rpl36;Name=rpl36
+Chl-PA3-19	Chloe	CDS	4469	4582	1.000e-03	+	0	ID=rpl36.CDS.1;Parent=rpl36
+###
+Chl-PA3-19	Chloe	gene	4697	5113	2.000e-03	+	.	ID=rps11;Name=rps11
+Chl-PA3-19	Chloe	CDS	4697	5113	2.000e-03	+	0	ID=rps11.CDS.1;Parent=rps11
+###
+Chl-PA3-19	Chloe	gene	5185	6198	0.000e+00	+	.	ID=rpoA;Name=rpoA
+Chl-PA3-19	Chloe	CDS	5185	6198	0.000e+00	+	0	ID=rpoA.CDS.1;Parent=rpoA
+###
+Chl-PA3-19	Chloe	gene	6384	7628	1.000e-03	-	.	ID=petD;Name=petD
+Chl-PA3-19	Chloe	CDS	7621	7628	2.000e-03	-	0	ID=petD.CDS.1;Parent=petD
+Chl-PA3-19	Chloe	intron	6859	7620	2.000e-03	-	.	ID=petD.intron.2;Parent=petD
+Chl-PA3-19	Chloe	CDS	6384	6858	0.000e+00	-	1	ID=petD.CDS.3;Parent=petD
+###
+Chl-PA3-19	Chloe	gene	7831	9296	1.000e-03	-	.	ID=petB;Name=petB
+Chl-PA3-19	Chloe	CDS	9291	9296	2.000e-03	-	0	ID=petB.CDS.1;Parent=petB
+Chl-PA3-19	Chloe	intron	8473	9290	3.000e-03	-	.	ID=petB.intron.2;Parent=petB
+Chl-PA3-19	Chloe	CDS	7831	8472	0.000e+00	-	0	ID=petB.CDS.3;Parent=petB
+###
+Chl-PA3-19	Chloe	gene	9450	9671	1.000e-03	-	.	ID=psbH;Name=psbH
+Chl-PA3-19	Chloe	CDS	9450	9671	1.000e-03	-	0	ID=psbH.CDS.1;Parent=psbH
+###
+Chl-PA3-19	Chloe	gene	9779	9910	1.000e-03	+	.	ID=pbf1;Name=pbf1
+Chl-PA3-19	Chloe	CDS	9779	9910	1.000e-03	+	0	ID=pbf1.CDS.1;Parent=pbf1
+###
+Chl-PA3-19	Chloe	gene	9985	10086	1.000e-03	-	.	ID=psbT;Name=psbT
+Chl-PA3-19	Chloe	CDS	9985	10086	1.000e-03	-	0	ID=psbT.CDS.1;Parent=psbT
+###
+Chl-PA3-19	Chloe	gene	10262	11788	0.000e+00	-	.	ID=psbB;Name=psbB
+Chl-PA3-19	Chloe	CDS	10262	11788	0.000e+00	-	0	ID=psbB.CDS.1;Parent=psbB
+###
+Chl-PA3-19	Chloe	gene	12255	14346	5.089e-01	+	.	ID=clpP1;Name=clpP1
+Chl-PA3-19	Chloe	CDS	12255	12325	1.800e-02	+	0	ID=clpP1.CDS.1;Parent=clpP1
+Chl-PA3-19	Chloe	intron	12326	13106	1.800e-02	+	.	ID=clpP1.intron.2;Parent=clpP1
+Chl-PA3-19	Chloe	CDS	13107	13398	9.000e-03	+	1	ID=clpP1.CDS.3;Parent=clpP1
+Chl-PA3-19	Chloe	intron	13399	14094	5.400e-02	+	.	ID=clpP1.intron.4;Parent=clpP1
+Chl-PA3-19	Chloe	CDS	14095	14346	2.000e-02	+	0	ID=clpP1.CDS.5;Parent=clpP1
+###
+Chl-PA3-19	Chloe	gene	14489	15235	1.000e-03	+	.	ID=rps12A;Name=rps12A
+Chl-PA3-19	Chloe	CDS	14489	14602	1.000e-03	+	0	ID=rps12A.CDS.1;Parent=rps12A
+Chl-PA3-19	Chloe	intron	14603	15235	3.000e-03	+	.	ID=rps12A.intron.2;Parent=rps12A
+###
+Chl-PA3-19	Chloe	gene	15342	15698	2.000e-03	+	.	ID=rpl20;Name=rpl20
+Chl-PA3-19	Chloe	CDS	15342	15698	2.000e-03	+	0	ID=rpl20.CDS.1;Parent=rpl20
+###
+Chl-PA3-19	Chloe	gene	15935	16240	1.000e-03	-	.	ID=rps18;Name=rps18
+Chl-PA3-19	Chloe	CDS	15935	16240	1.000e-03	-	0	ID=rps18.CDS.1;Parent=rps18
+###
+Chl-PA3-19	Chloe	gene	16398	16598	0.000e+00	-	.	ID=rpl33;Name=rpl33
+Chl-PA3-19	Chloe	CDS	16398	16598	0.000e+00	-	0	ID=rpl33.CDS.1;Parent=rpl33
+###
+Chl-PA3-19	Chloe	gene	17064	17198	1.000e-03	-	.	ID=psaJ;Name=psaJ
+Chl-PA3-19	Chloe	CDS	17064	17198	1.000e-03	-	0	ID=psaJ.CDS.1;Parent=psaJ
+###
+Chl-PA3-19	Chloe	gene	17580	17653	1.000e-03	+	.	ID=trnP-UGG;Name=trnP-UGG
+Chl-PA3-19	Chloe	tRNA	17580	17653	1.000e-03	+	.	ID=trnP-UGG.tRNA.1;Parent=trnP-UGG
+###
+Chl-PA3-19	Chloe	gene	17797	17870	1.000e-03	+	.	ID=trnW-CCA;Name=trnW-CCA
+Chl-PA3-19	Chloe	tRNA	17797	17870	1.000e-03	+	.	ID=trnW-CCA.tRNA.1;Parent=trnW-CCA
+###
+Chl-PA3-19	Chloe	gene	17984	18097	1.000e-03	-	.	ID=petG;Name=petG
+Chl-PA3-19	Chloe	CDS	17984	18097	1.000e-03	-	0	ID=petG.CDS.1;Parent=petG
+###
+Chl-PA3-19	Chloe	gene	18214	18309	1.000e-03	-	.	ID=petL;Name=petL
+Chl-PA3-19	Chloe	CDS	18214	18309	1.000e-03	-	0	ID=petL.CDS.1;Parent=petL
+###
+Chl-PA3-19	Chloe	gene	19499	19750	2.000e-03	+	.	ID=psbE;Name=psbE
+Chl-PA3-19	Chloe	CDS	19499	19750	2.000e-03	+	0	ID=psbE.CDS.1;Parent=psbE
+###
+Chl-PA3-19	Chloe	gene	19761	19880	1.000e-03	+	.	ID=psbF;Name=psbF
+Chl-PA3-19	Chloe	CDS	19761	19880	1.000e-03	+	0	ID=psbF.CDS.1;Parent=psbF
+###
+Chl-PA3-19	Chloe	gene	19907	20023	1.000e-03	+	.	ID=psbL;Name=psbL
+Chl-PA3-19	Chloe	CDS	19907	20023	1.000e-03	+	0	ID=psbL.CDS.1;Parent=psbL
+###
+Chl-PA3-19	Chloe	gene	20149	20271	1.000e-03	+	.	ID=psbJ;Name=psbJ
+Chl-PA3-19	Chloe	CDS	20149	20271	1.000e-03	+	0	ID=psbJ.CDS.1;Parent=psbJ
+###
+Chl-PA3-19	Chloe	gene	20894	21856	0.000e+00	-	.	ID=petA;Name=petA
+Chl-PA3-19	Chloe	CDS	20894	21856	0.000e+00	-	0	ID=petA.CDS.1;Parent=petA
+###
+Chl-PA3-19	Chloe	gene	22090	22776	1.000e-03	-	.	ID=cemA;Name=cemA
+Chl-PA3-19	Chloe	CDS	22090	22776	1.000e-03	-	0	ID=cemA.CDS.1;Parent=cemA
+###
+Chl-PA3-19	Chloe	gene	23476	24030	0.000e+00	-	.	ID=pafII;Name=pafII
+Chl-PA3-19	Chloe	CDS	23476	24030	0.000e+00	-	0	ID=pafII.CDS.1;Parent=pafII
+###
+Chl-PA3-19	Chloe	gene	24400	24510	2.000e-03	-	.	ID=psaI;Name=psaI
+Chl-PA3-19	Chloe	CDS	24400	24510	2.000e-03	-	0	ID=psaI.CDS.1;Parent=psaI
+###
+Chl-PA3-19	Chloe	gene	25399	26904	1.000e-03	-	.	ID=accD;Name=accD
+Chl-PA3-19	Chloe	CDS	25399	26904	1.000e-03	-	0	ID=accD.CDS.1;Parent=accD
+###
+Chl-PA3-19	Chloe	gene	27769	29208	1.000e-03	-	.	ID=rbcL;Name=rbcL
+Chl-PA3-19	Chloe	CDS	27769	29208	1.000e-03	-	0	ID=rbcL.CDS.1;Parent=rbcL
+###
+Chl-PA3-19	Chloe	gene	29980	31476	0.000e+00	+	.	ID=atpB;Name=atpB
+Chl-PA3-19	Chloe	CDS	29980	31476	0.000e+00	+	0	ID=atpB.CDS.1;Parent=atpB
+###
+Chl-PA3-19	Chloe	gene	31473	31877	5.000e-03	+	.	ID=atpE;Name=atpE
+Chl-PA3-19	Chloe	CDS	31473	31877	5.000e-03	+	0	ID=atpE.CDS.1;Parent=atpE
+###
+Chl-PA3-19	Chloe	gene	32108	32180	0.000e+00	-	.	ID=trnM-CAU;Name=trnM-CAU
+Chl-PA3-19	Chloe	tRNA	32108	32180	0.000e+00	-	.	ID=trnM-CAU.tRNA.1;Parent=trnM-CAU
+###
+Chl-PA3-19	Chloe	gene	32347	33004	5.500e-03	+	.	ID=trnV-UAC;Name=trnV-UAC
+Chl-PA3-19	Chloe	tRNA	32347	32385	2.000e-03	+	.	ID=trnV-UAC.tRNA.1;Parent=trnV-UAC
+Chl-PA3-19	Chloe	intron	32386	32969	4.000e-03	+	.	ID=trnV-UAC.intron.2;Parent=trnV-UAC
+Chl-PA3-19	Chloe	tRNA	32970	33004	9.000e-03	+	.	ID=trnV-UAC.tRNA.3;Parent=trnV-UAC
+###
+Chl-PA3-19	Chloe	gene	34170	34532	1.000e-03	+	.	ID=ndhC;Name=ndhC
+Chl-PA3-19	Chloe	CDS	34170	34532	1.000e-03	+	0	ID=ndhC.CDS.1;Parent=ndhC
+###
+Chl-PA3-19	Chloe	gene	34523	35290	0.000e+00	+	.	ID=ndhK;Name=ndhK
+Chl-PA3-19	Chloe	CDS	34523	35290	0.000e+00	+	0	ID=ndhK.CDS.1;Parent=ndhK
+###
+Chl-PA3-19	Chloe	gene	35381	35857	1.000e-03	+	.	ID=ndhJ;Name=ndhJ
+Chl-PA3-19	Chloe	CDS	35381	35857	1.000e-03	+	0	ID=ndhJ.CDS.1;Parent=ndhJ
+###
+Chl-PA3-19	Chloe	gene	36385	36457	1.000e-03	-	.	ID=trnF-GAA;Name=trnF-GAA
+Chl-PA3-19	Chloe	tRNA	36385	36457	1.000e-03	-	.	ID=trnF-GAA.tRNA.1;Parent=trnF-GAA
+###
+Chl-PA3-19	Chloe	gene	36851	37501	4.500e-03	-	.	ID=trnL-UAA;Name=trnL-UAA
+Chl-PA3-19	Chloe	tRNA	37467	37501	9.000e-03	-	.	ID=trnL-UAA.tRNA.1;Parent=trnL-UAA
+Chl-PA3-19	Chloe	intron	36901	37466	4.000e-03	-	.	ID=trnL-UAA.intron.2;Parent=trnL-UAA
+Chl-PA3-19	Chloe	tRNA	36851	36900	0.000e+00	-	.	ID=trnL-UAA.tRNA.3;Parent=trnL-UAA
+###
+Chl-PA3-19	Chloe	gene	38256	38328	0.000e+00	+	.	ID=trnT-UGU;Name=trnT-UGU
+Chl-PA3-19	Chloe	tRNA	38256	38328	0.000e+00	+	.	ID=trnT-UGU.tRNA.1;Parent=trnT-UGU
+###
+Chl-PA3-19	Chloe	gene	38746	39351	0.000e+00	+	.	ID=rps4;Name=rps4
+Chl-PA3-19	Chloe	CDS	38746	39351	0.000e+00	+	0	ID=rps4.CDS.1;Parent=rps4
+###
+Chl-PA3-19	Chloe	gene	39684	39770	0.000e+00	-	.	ID=trnS-GGA;Name=trnS-GGA
+Chl-PA3-19	Chloe	tRNA	39684	39770	0.000e+00	-	.	ID=trnS-GGA.tRNA.1;Parent=trnS-GGA
+###
+Chl-PA3-19	Chloe	gene	40385	42319	5.011e-01	+	.	ID=pafI;Name=pafI
+Chl-PA3-19	Chloe	CDS	40385	40508	3.000e-03	+	0	ID=pafI.CDS.1;Parent=pafI
+Chl-PA3-19	Chloe	intron	40509	41201	3.000e-03	+	.	ID=pafI.intron.2;Parent=pafI
+Chl-PA3-19	Chloe	CDS	41202	41431	2.000e-03	+	2	ID=pafI.CDS.3;Parent=pafI
+Chl-PA3-19	Chloe	intron	41432	42160	2.000e-03	+	.	ID=pafI.intron.4;Parent=pafI
+Chl-PA3-19	Chloe	CDS	42161	42319	2.000e-03	+	0	ID=pafI.CDS.5;Parent=pafI
+###
+Chl-PA3-19	Chloe	gene	42984	45236	0.000e+00	+	.	ID=psaA;Name=psaA
+Chl-PA3-19	Chloe	CDS	42984	45236	0.000e+00	+	0	ID=psaA.CDS.1;Parent=psaA
+###
+Chl-PA3-19	Chloe	gene	45262	47466	0.000e+00	+	.	ID=psaB;Name=psaB
+Chl-PA3-19	Chloe	CDS	45262	47466	0.000e+00	+	0	ID=psaB.CDS.1;Parent=psaB
+###
+Chl-PA3-19	Chloe	gene	47603	47905	0.000e+00	+	.	ID=rps14;Name=rps14
+Chl-PA3-19	Chloe	CDS	47603	47905	0.000e+00	+	0	ID=rps14.CDS.1;Parent=rps14
+###
+Chl-PA3-19	Chloe	gene	48064	48137	3.000e-03	+	.	ID=trnfM-CAU;Name=trnfM-CAU
+Chl-PA3-19	Chloe	tRNA	48064	48137	3.000e-03	+	.	ID=trnfM-CAU.tRNA.1;Parent=trnfM-CAU
+###
+Chl-PA3-19	Chloe	gene	48311	48381	6.000e-03	-	.	ID=trnG-GCC;Name=trnG-GCC
+Chl-PA3-19	Chloe	tRNA	48311	48381	6.000e-03	-	.	ID=trnG-GCC.tRNA.1;Parent=trnG-GCC
+###
+Chl-PA3-19	Chloe	gene	48641	48829	1.000e-03	-	.	ID=psbZ;Name=psbZ
+Chl-PA3-19	Chloe	CDS	48641	48829	1.000e-03	-	0	ID=psbZ.CDS.1;Parent=psbZ
+###
+Chl-PA3-19	Chloe	gene	49188	49280	1.000e-03	+	.	ID=trnS-UGA;Name=trnS-UGA
+Chl-PA3-19	Chloe	tRNA	49188	49280	1.000e-03	+	.	ID=trnS-UGA.tRNA.1;Parent=trnS-UGA
+###
+Chl-PA3-19	Chloe	gene	49418	50803	0.000e+00	-	.	ID=psbC;Name=psbC
+Chl-PA3-19	Chloe	CDS	49418	50803	0.000e+00	-	0	ID=psbC.CDS.1;Parent=psbC
+###
+Chl-PA3-19	Chloe	gene	50787	51848	0.000e+00	-	.	ID=psbD;Name=psbD
+Chl-PA3-19	Chloe	CDS	50787	51848	0.000e+00	-	0	ID=psbD.CDS.1;Parent=psbD
+###
+Chl-PA3-19	Chloe	gene	52823	52894	2.000e-03	-	.	ID=trnT-GGU;Name=trnT-GGU
+Chl-PA3-19	Chloe	tRNA	52823	52894	2.000e-03	-	.	ID=trnT-GGU.tRNA.1;Parent=trnT-GGU
+###
+Chl-PA3-19	Chloe	gene	53142	53214	1.000e-03	+	.	ID=trnE-UUC;Name=trnE-UUC
+Chl-PA3-19	Chloe	tRNA	53142	53214	1.000e-03	+	.	ID=trnE-UUC.tRNA.1;Parent=trnE-UUC
+###
+Chl-PA3-19	Chloe	gene	53274	53357	0.000e+00	+	.	ID=trnY-GUA;Name=trnY-GUA
+Chl-PA3-19	Chloe	tRNA	53274	53357	0.000e+00	+	.	ID=trnY-GUA.tRNA.1;Parent=trnY-GUA
+###
+Chl-PA3-19	Chloe	gene	53714	53787	3.000e-03	+	.	ID=trnD-GUC;Name=trnD-GUC
+Chl-PA3-19	Chloe	tRNA	53714	53787	3.000e-03	+	.	ID=trnD-GUC.tRNA.1;Parent=trnD-GUC
+###
+Chl-PA3-19	Chloe	gene	54680	54784	0.000e+00	+	.	ID=psbM;Name=psbM
+Chl-PA3-19	Chloe	CDS	54680	54784	0.000e+00	+	0	ID=psbM.CDS.1;Parent=psbM
+###
+Chl-PA3-19	Chloe	gene	55153	55242	1.000e-03	-	.	ID=petN;Name=petN
+Chl-PA3-19	Chloe	CDS	55153	55242	1.000e-03	-	0	ID=petN.CDS.1;Parent=petN
+###
+Chl-PA3-19	Chloe	gene	56480	56550	1.000e-03	-	.	ID=trnC-GCA;Name=trnC-GCA
+Chl-PA3-19	Chloe	tRNA	56480	56550	1.000e-03	-	.	ID=trnC-GCA.tRNA.1;Parent=trnC-GCA
+###
+Chl-PA3-19	Chloe	gene	57531	60743	0.000e+00	+	.	ID=rpoB;Name=rpoB
+Chl-PA3-19	Chloe	CDS	57531	60743	0.000e+00	+	0	ID=rpoB.CDS.1;Parent=rpoB
+###
+Chl-PA3-19	Chloe	gene	60770	63567	2.000e-03	+	.	ID=rpoC1;Name=rpoC1
+Chl-PA3-19	Chloe	CDS	60770	61201	2.000e-03	+	0	ID=rpoC1.CDS.1;Parent=rpoC1
+Chl-PA3-19	Chloe	intron	61202	61956	1.000e-02	+	.	ID=rpoC1.intron.2;Parent=rpoC1
+Chl-PA3-19	Chloe	CDS	61957	63567	2.000e-03	+	0	ID=rpoC1.CDS.3;Parent=rpoC1
+###
+Chl-PA3-19	Chloe	gene	63738	67883	1.000e-03	+	.	ID=rpoC2;Name=rpoC2
+Chl-PA3-19	Chloe	CDS	63738	67883	1.000e-03	+	0	ID=rpoC2.CDS.1;Parent=rpoC2
+###
+Chl-PA3-19	Chloe	gene	68100	68810	0.000e+00	+	.	ID=rps2;Name=rps2
+Chl-PA3-19	Chloe	CDS	68100	68810	0.000e+00	+	0	ID=rps2.CDS.1;Parent=rps2
+###
+Chl-PA3-19	Chloe	gene	69069	69803	1.000e-03	+	.	ID=atpI;Name=atpI
+Chl-PA3-19	Chloe	CDS	69069	69803	1.000e-03	+	0	ID=atpI.CDS.1;Parent=atpI
+###
+Chl-PA3-19	Chloe	gene	70669	70914	1.000e-03	+	.	ID=atpH;Name=atpH
+Chl-PA3-19	Chloe	CDS	70669	70914	1.000e-03	+	0	ID=atpH.CDS.1;Parent=atpH
+###
+Chl-PA3-19	Chloe	gene	71339	72662	1.500e-03	+	.	ID=atpF;Name=atpF
+Chl-PA3-19	Chloe	CDS	71339	71483	1.000e-03	+	0	ID=atpF.CDS.1;Parent=atpF
+Chl-PA3-19	Chloe	intron	71484	72252	2.000e-03	+	.	ID=atpF.intron.2;Parent=atpF
+Chl-PA3-19	Chloe	CDS	72253	72662	2.000e-03	+	2	ID=atpF.CDS.3;Parent=atpF
+###
+Chl-PA3-19	Chloe	gene	72742	74265	0.000e+00	+	.	ID=atpA;Name=atpA
+Chl-PA3-19	Chloe	CDS	72742	74265	0.000e+00	+	0	ID=atpA.CDS.1;Parent=atpA
+###
+Chl-PA3-19	Chloe	gene	74387	74458	0.000e+00	-	.	ID=trnR-UCU;Name=trnR-UCU
+Chl-PA3-19	Chloe	tRNA	74387	74458	0.000e+00	-	.	ID=trnR-UCU.tRNA.1;Parent=trnR-UCU
+###
+Chl-PA3-19	Chloe	gene	74624	75392	9.000e-03	-	.	ID=trnG-UCC;Name=trnG-UCC
+Chl-PA3-19	Chloe	tRNA	75370	75392	9.000e-03	-	.	ID=trnG-UCC.tRNA.1;Parent=trnG-UCC
+Chl-PA3-19	Chloe	intron	74672	75369	9.000e-03	-	.	ID=trnG-UCC.intron.2;Parent=trnG-UCC
+Chl-PA3-19	Chloe	tRNA	74624	74671	9.000e-03	-	.	ID=trnG-UCC.tRNA.3;Parent=trnG-UCC
+###
+Chl-PA3-19	Chloe	gene	76232	76319	1.000e-03	+	.	ID=trnS-GCU;Name=trnS-GCU
+Chl-PA3-19	Chloe	tRNA	76232	76319	1.000e-03	+	.	ID=trnS-GCU.tRNA.1;Parent=trnS-GCU
+###
+Chl-PA3-19	Chloe	gene	76461	76571	1.000e-03	-	.	ID=psbI;Name=psbI
+Chl-PA3-19	Chloe	CDS	76461	76571	1.000e-03	-	0	ID=psbI.CDS.1;Parent=psbI
+###
+Chl-PA3-19	Chloe	gene	76993	77178	1.000e-03	-	.	ID=psbK;Name=psbK
+Chl-PA3-19	Chloe	CDS	76993	77178	1.000e-03	-	0	ID=psbK.CDS.1;Parent=psbK
+###
+Chl-PA3-19	Chloe	gene	77524	77595	1.000e-03	+	.	ID=trnQ-UUG;Name=trnQ-UUG
+Chl-PA3-19	Chloe	tRNA	77524	77595	1.000e-03	+	.	ID=trnQ-UUG.tRNA.1;Parent=trnQ-UUG
+###
+Chl-PA3-19	Chloe	gene	78470	79508	3.850e-02	+	.	ID=rps16;Name=rps16
+Chl-PA3-19	Chloe	CDS	78470	78509	2.600e-02	+	0	ID=rps16.CDS.1;Parent=rps16
+Chl-PA3-19	Chloe	intron	78510	79314	1.500e-02	+	.	ID=rps16.intron.2;Parent=rps16
+Chl-PA3-19	Chloe	CDS	79315	79508	5.100e-02	+	0	ID=rps16.CDS.3;Parent=rps16
+###
+Chl-PA3-19	Chloe	gene	80130	82842	6.500e-03	+	.	ID=trnK-UUU;Name=trnK-UUU
+Chl-PA3-19	Chloe	tRNA	80130	80166	9.000e-03	+	.	ID=trnK-UUU.tRNA.1;Parent=trnK-UUU
+Chl-PA3-19	Chloe	intron	80167	82807	1.000e-03	+	.	ID=trnK-UUU.intron.2;Parent=trnK-UUU
+Chl-PA3-19	Chloe	tRNA	82808	82842	4.000e-03	+	.	ID=trnK-UUU.tRNA.3;Parent=trnK-UUU
+###
+Chl-PA3-19	Chloe	gene	80978	82528	1.000e-03	+	.	ID=matK;Name=matK
+Chl-PA3-19	Chloe	CDS	80978	82528	1.000e-03	+	0	ID=matK.CDS.1;Parent=matK
+###
+Chl-PA3-19	Chloe	gene	83111	84172	0.000e+00	+	.	ID=psbA;Name=psbA
+Chl-PA3-19	Chloe	CDS	83111	84172	0.000e+00	+	0	ID=psbA.CDS.1;Parent=psbA
+###
+Chl-PA3-19	Chloe	repeat_region	84309	112277	.	+	.	ID=IR-1;Name=IR-1
+###
+Chl-PA3-19	Chloe	gene	84528	84602	2.000e-03	+	.	ID=trnH-GUG;Name=trnH-GUG
+Chl-PA3-19	Chloe	tRNA	84528	84602	2.000e-03	+	.	ID=trnH-GUG.tRNA.1;Parent=trnH-GUG
+###
+Chl-PA3-19	Chloe	gene	84646	86130	8.500e-03	-	.	ID=rpl2-2;Name=rpl2
+Chl-PA3-19	Chloe	CDS	85740	86130	8.000e-03	-	0	ID=rpl2-2.CDS.1;Parent=rpl2-2
+Chl-PA3-19	Chloe	intron	85077	85739	1.100e-02	-	.	ID=rpl2-2.intron.2;Parent=rpl2-2
+Chl-PA3-19	Chloe	CDS	84646	85076	9.000e-03	-	2	ID=rpl2-2.CDS.3;Parent=rpl2-2
+###
+Chl-PA3-19	Chloe	gene	86153	86434	2.000e-03	-	.	ID=rpl23-2;Name=rpl23
+Chl-PA3-19	Chloe	CDS	86153	86434	2.000e-03	-	0	ID=rpl23-2.CDS.1;Parent=rpl23-2
+###
+Chl-PA3-19	Chloe	gene	86600	86673	2.000e-03	-	.	ID=trnI-CAU-2;Name=trnI-CAU
+Chl-PA3-19	Chloe	tRNA	86600	86673	2.000e-03	-	.	ID=trnI-CAU-2.tRNA.1;Parent=trnI-CAU-2
+###
+Chl-PA3-19	Chloe	gene	86733	93719	3.000e-03	+	.	ID=ycf2;Name=ycf2
+Chl-PA3-19	Chloe	CDS	86733	93719	3.000e-03	+	0	ID=ycf2.CDS.1;Parent=ycf2
+###
+Chl-PA3-19	Chloe	gene	94128	94208	0.000e+00	-	.	ID=trnL-CAA-2;Name=trnL-CAA
+Chl-PA3-19	Chloe	tRNA	94128	94208	0.000e+00	-	.	ID=trnL-CAA-2.tRNA.1;Parent=trnL-CAA-2
+###
+Chl-PA3-19	Chloe	gene	94792	96968	1.500e-03	-	.	ID=ndhB-2;Name=ndhB
+Chl-PA3-19	Chloe	CDS	96246	96968	1.000e-03	-	0	ID=ndhB-2.CDS.1;Parent=ndhB-2
+Chl-PA3-19	Chloe	intron	95548	96245	2.900e-02	-	.	ID=ndhB-2.intron.2;Parent=ndhB-2
+Chl-PA3-19	Chloe	CDS	94792	95547	2.000e-03	-	0	ID=ndhB-2.CDS.3;Parent=ndhB-2
+###
+Chl-PA3-19	Chloe	gene	97353	97820	0.000e+00	-	.	ID=rps7-2;Name=rps7
+Chl-PA3-19	Chloe	CDS	97353	97820	0.000e+00	-	0	ID=rps7-2.CDS.1;Parent=rps7-2
+###
+Chl-PA3-19	Chloe	gene	97879	99507	5.500e-03	-	.	ID=rps12B-2;Name=rps12B
+Chl-PA3-19	Chloe	intron	98678	99507	7.000e-03	-	.	ID=rps12B-2.intron.1;Parent=rps12B-2
+Chl-PA3-19	Chloe	CDS	98446	98677	6.000e-03	-	0	ID=rps12B-2.CDS.2;Parent=rps12B-2
+Chl-PA3-19	Chloe	intron	97905	98445	6.000e-03	-	.	ID=rps12B-2.intron.3;Parent=rps12B-2
+Chl-PA3-19	Chloe	CDS	97879	97904	5.000e-03	-	2	ID=rps12B-2.CDS.4;Parent=rps12B-2
+###
+Chl-PA3-19	Chloe	gene	100547	100618	1.000e-03	+	.	ID=trnV-GAC;Name=trnV-GAC
+Chl-PA3-19	Chloe	tRNA	100547	100618	1.000e-03	+	.	ID=trnV-GAC.tRNA.1;Parent=trnV-GAC
+###
+Chl-PA3-19	Chloe	gene	100847	102337	2.000e-03	+	.	ID=rrn16;Name=rrn16
+Chl-PA3-19	Chloe	rRNA	100847	102337	2.000e-03	+	.	ID=rrn16.rRNA.1;Parent=rrn16
+###
+Chl-PA3-19	Chloe	gene	102636	103650	9.000e-03	+	.	ID=trnI-GAU;Name=trnI-GAU
+Chl-PA3-19	Chloe	tRNA	102636	102672	9.000e-03	+	.	ID=trnI-GAU.tRNA.1;Parent=trnI-GAU
+Chl-PA3-19	Chloe	intron	102673	103615	7.000e-03	+	.	ID=trnI-GAU.intron.2;Parent=trnI-GAU
+Chl-PA3-19	Chloe	tRNA	103616	103650	9.000e-03	+	.	ID=trnI-GAU.tRNA.3;Parent=trnI-GAU
+###
+Chl-PA3-19	Chloe	gene	103715	104587	9.000e-03	+	.	ID=trnA-UGC;Name=trnA-UGC
+Chl-PA3-19	Chloe	tRNA	103715	103752	9.000e-03	+	.	ID=trnA-UGC.tRNA.1;Parent=trnA-UGC
+Chl-PA3-19	Chloe	intron	103753	104552	4.000e-03	+	.	ID=trnA-UGC.intron.2;Parent=trnA-UGC
+Chl-PA3-19	Chloe	tRNA	104553	104587	9.000e-03	+	.	ID=trnA-UGC.tRNA.3;Parent=trnA-UGC
+###
+Chl-PA3-19	Chloe	gene	104733	107543	2.000e-03	+	.	ID=rrn23;Name=rrn23
+Chl-PA3-19	Chloe	rRNA	104733	107543	2.000e-03	+	.	ID=rrn23.rRNA.1;Parent=rrn23
+###
+Chl-PA3-19	Chloe	gene	107641	107743	1.000e-03	+	.	ID=rrn4.5;Name=rrn4.5
+Chl-PA3-19	Chloe	rRNA	107641	107743	1.000e-03	+	.	ID=rrn4.5.rRNA.1;Parent=rrn4.5
+###
+Chl-PA3-19	Chloe	gene	107969	108089	1.000e-03	+	.	ID=rrn5;Name=rrn5
+Chl-PA3-19	Chloe	rRNA	107969	108089	1.000e-03	+	.	ID=rrn5.rRNA.1;Parent=rrn5
+###
+Chl-PA3-19	Chloe	gene	108349	108422	1.000e-03	+	.	ID=trnR-ACG;Name=trnR-ACG
+Chl-PA3-19	Chloe	tRNA	108349	108422	1.000e-03	+	.	ID=trnR-ACG.tRNA.1;Parent=trnR-ACG
+###
+Chl-PA3-19	Chloe	gene	108968	109039	0.000e+00	-	.	ID=trnN-GUU-2;Name=trnN-GUU
+Chl-PA3-19	Chloe	tRNA	108968	109039	0.000e+00	-	.	ID=trnN-GUU-2.tRNA.1;Parent=trnN-GUU-2
+###
+Chl-PA3-19	Chloe	gene	112239	114449	1.000e-03	-	.	ID=ndhF;Name=ndhF
+Chl-PA3-19	Chloe	CDS	112239	114449	1.000e-03	-	0	ID=ndhF.CDS.1;Parent=ndhF
+###
+Chl-PA3-19	Chloe	gene	115320	115493	2.000e-03	+	.	ID=rpl32;Name=rpl32
+Chl-PA3-19	Chloe	CDS	115320	115493	2.000e-03	+	0	ID=rpl32.CDS.1;Parent=rpl32
+###
+Chl-PA3-19	Chloe	gene	116348	116427	3.000e-03	+	.	ID=trnL-UAG;Name=trnL-UAG
+Chl-PA3-19	Chloe	tRNA	116348	116427	3.000e-03	+	.	ID=trnL-UAG.tRNA.1;Parent=trnL-UAG
+###
+Chl-PA3-19	Chloe	gene	116510	117463	0.000e+00	+	.	ID=ccsA;Name=ccsA
+Chl-PA3-19	Chloe	CDS	116510	117463	0.000e+00	+	0	ID=ccsA.CDS.1;Parent=ccsA
+###
+Chl-PA3-19	Chloe	gene	117739	119241	1.000e-03	-	.	ID=ndhD;Name=ndhD
+Chl-PA3-19	Chloe	CDS	117739	119241	1.000e-03	-	0	ID=ndhD.CDS.1;Parent=ndhD
+###
+Chl-PA3-19	Chloe	gene	119372	119617	2.000e-03	-	.	ID=psaC;Name=psaC
+Chl-PA3-19	Chloe	CDS	119372	119617	2.000e-03	-	0	ID=psaC.CDS.1;Parent=psaC
+###
+Chl-PA3-19	Chloe	gene	120080	120385	1.000e-03	-	.	ID=ndhE;Name=ndhE
+Chl-PA3-19	Chloe	CDS	120080	120385	1.000e-03	-	0	ID=ndhE.CDS.1;Parent=ndhE
+###
+Chl-PA3-19	Chloe	gene	120563	121093	0.000e+00	-	.	ID=ndhG;Name=ndhG
+Chl-PA3-19	Chloe	CDS	120563	121093	0.000e+00	-	0	ID=ndhG.CDS.1;Parent=ndhG
+###
+Chl-PA3-19	Chloe	gene	121528	122076	1.000e-03	-	.	ID=ndhI;Name=ndhI
+Chl-PA3-19	Chloe	CDS	121528	122076	1.000e-03	-	0	ID=ndhI.CDS.1;Parent=ndhI
+###
+Chl-PA3-19	Chloe	gene	122166	124285	4.500e-03	-	.	ID=ndhA;Name=ndhA
+Chl-PA3-19	Chloe	CDS	123733	124285	6.000e-03	-	0	ID=ndhA.CDS.1;Parent=ndhA
+Chl-PA3-19	Chloe	intron	122705	123732	6.500e-02	-	.	ID=ndhA.intron.2;Parent=ndhA
+Chl-PA3-19	Chloe	CDS	122166	122704	3.000e-03	-	2	ID=ndhA.CDS.3;Parent=ndhA
+###
+Chl-PA3-19	Chloe	gene	124287	125468	0.000e+00	-	.	ID=ndhH;Name=ndhH
+Chl-PA3-19	Chloe	CDS	124287	125468	0.000e+00	-	0	ID=ndhH.CDS.1;Parent=ndhH
+###
+Chl-PA3-19	Chloe	gene	125576	125848	4.000e-03	-	.	ID=rps15;Name=rps15
+Chl-PA3-19	Chloe	CDS	125576	125848	4.000e-03	-	0	ID=rps15.CDS.1;Parent=rps15
+###
+Chl-PA3-19	Chloe	gene	126269	131953	3.700e-02	-	.	ID=ycf1;Name=ycf1
+Chl-PA3-19	Chloe	CDS	126269	131953	3.700e-02	-	0	ID=ycf1.CDS.1;Parent=ycf1
+###
+Chl-PA3-19	Chloe	repeat_region	129034	157002	.	-	.	ID=IR-2;Name=IR-2
+###
+Chl-PA3-19	Chloe	gene	132272	132343	0.000e+00	+	.	ID=trnN-GUU;Name=trnN-GUU
+Chl-PA3-19	Chloe	tRNA	132272	132343	0.000e+00	+	.	ID=trnN-GUU.tRNA.1;Parent=trnN-GUU
+###
+Chl-PA3-19	Chloe	gene	132889	132962	1.000e-03	-	.	ID=trnR-ACG-2;Name=trnR-ACG
+Chl-PA3-19	Chloe	tRNA	132889	132962	1.000e-03	-	.	ID=trnR-ACG-2.tRNA.1;Parent=trnR-ACG-2
+###
+Chl-PA3-19	Chloe	gene	133222	133342	1.000e-03	-	.	ID=rrn5-2;Name=rrn5
+Chl-PA3-19	Chloe	rRNA	133222	133342	1.000e-03	-	.	ID=rrn5-2.rRNA.1;Parent=rrn5-2
+###
+Chl-PA3-19	Chloe	gene	133568	133670	1.000e-03	-	.	ID=rrn4.5-2;Name=rrn4.5
+Chl-PA3-19	Chloe	rRNA	133568	133670	1.000e-03	-	.	ID=rrn4.5-2.rRNA.1;Parent=rrn4.5-2
+###
+Chl-PA3-19	Chloe	gene	133768	136578	2.000e-03	-	.	ID=rrn23-2;Name=rrn23
+Chl-PA3-19	Chloe	rRNA	133768	136578	2.000e-03	-	.	ID=rrn23-2.rRNA.1;Parent=rrn23-2
+###
+Chl-PA3-19	Chloe	gene	136724	137596	9.000e-03	-	.	ID=trnA-UGC-2;Name=trnA-UGC
+Chl-PA3-19	Chloe	tRNA	137559	137596	9.000e-03	-	.	ID=trnA-UGC-2.tRNA.1;Parent=trnA-UGC-2
+Chl-PA3-19	Chloe	intron	136759	137558	4.000e-03	-	.	ID=trnA-UGC-2.intron.2;Parent=trnA-UGC-2
+Chl-PA3-19	Chloe	tRNA	136724	136758	9.000e-03	-	.	ID=trnA-UGC-2.tRNA.3;Parent=trnA-UGC-2
+###
+Chl-PA3-19	Chloe	gene	137661	138675	9.000e-03	-	.	ID=trnI-GAU-2;Name=trnI-GAU
+Chl-PA3-19	Chloe	tRNA	138639	138675	9.000e-03	-	.	ID=trnI-GAU-2.tRNA.1;Parent=trnI-GAU-2
+Chl-PA3-19	Chloe	intron	137696	138638	7.000e-03	-	.	ID=trnI-GAU-2.intron.2;Parent=trnI-GAU-2
+Chl-PA3-19	Chloe	tRNA	137661	137695	9.000e-03	-	.	ID=trnI-GAU-2.tRNA.3;Parent=trnI-GAU-2
+###
+Chl-PA3-19	Chloe	gene	138974	140464	2.000e-03	-	.	ID=rrn16-2;Name=rrn16
+Chl-PA3-19	Chloe	rRNA	138974	140464	2.000e-03	-	.	ID=rrn16-2.rRNA.1;Parent=rrn16-2
+###
+Chl-PA3-19	Chloe	gene	140693	140764	1.000e-03	-	.	ID=trnV-GAC-2;Name=trnV-GAC
+Chl-PA3-19	Chloe	tRNA	140693	140764	1.000e-03	-	.	ID=trnV-GAC-2.tRNA.1;Parent=trnV-GAC-2
+###
+Chl-PA3-19	Chloe	gene	141804	143432	5.500e-03	+	.	ID=rps12B;Name=rps12B
+Chl-PA3-19	Chloe	intron	141804	142633	7.000e-03	+	.	ID=rps12B.intron.1;Parent=rps12B
+Chl-PA3-19	Chloe	CDS	142634	142865	6.000e-03	+	0	ID=rps12B.CDS.2;Parent=rps12B
+Chl-PA3-19	Chloe	intron	142866	143406	6.000e-03	+	.	ID=rps12B.intron.3;Parent=rps12B
+Chl-PA3-19	Chloe	CDS	143407	143432	5.000e-03	+	2	ID=rps12B.CDS.4;Parent=rps12B
+###
+Chl-PA3-19	Chloe	gene	143491	143958	0.000e+00	+	.	ID=rps7;Name=rps7
+Chl-PA3-19	Chloe	CDS	143491	143958	0.000e+00	+	0	ID=rps7.CDS.1;Parent=rps7
+###
+Chl-PA3-19	Chloe	gene	144343	146519	1.500e-03	+	.	ID=ndhB;Name=ndhB
+Chl-PA3-19	Chloe	CDS	144343	145065	1.000e-03	+	0	ID=ndhB.CDS.1;Parent=ndhB
+Chl-PA3-19	Chloe	intron	145066	145763	2.900e-02	+	.	ID=ndhB.intron.2;Parent=ndhB
+Chl-PA3-19	Chloe	CDS	145764	146519	2.000e-03	+	0	ID=ndhB.CDS.3;Parent=ndhB
+###
+Chl-PA3-19	Chloe	gene	147103	147183	0.000e+00	+	.	ID=trnL-CAA;Name=trnL-CAA
+Chl-PA3-19	Chloe	tRNA	147103	147183	0.000e+00	+	.	ID=trnL-CAA.tRNA.1;Parent=trnL-CAA
+###
+Chl-PA3-19	Chloe	gene	147592	154578	3.000e-03	-	.	ID=ycf2-2;Name=ycf2
+Chl-PA3-19	Chloe	CDS	147592	154578	3.000e-03	-	0	ID=ycf2-2.CDS.1;Parent=ycf2-2
+###
+Chl-PA3-19	Chloe	gene	154638	154711	2.000e-03	+	.	ID=trnI-CAU;Name=trnI-CAU
+Chl-PA3-19	Chloe	tRNA	154638	154711	2.000e-03	+	.	ID=trnI-CAU.tRNA.1;Parent=trnI-CAU
+###
+Chl-PA3-19	Chloe	gene	154877	155158	2.000e-03	+	.	ID=rpl23;Name=rpl23
+Chl-PA3-19	Chloe	CDS	154877	155158	2.000e-03	+	0	ID=rpl23.CDS.1;Parent=rpl23
+###
+Chl-PA3-19	Chloe	gene	155181	156665	8.500e-03	+	.	ID=rpl2;Name=rpl2
+Chl-PA3-19	Chloe	CDS	155181	155571	8.000e-03	+	0	ID=rpl2.CDS.1;Parent=rpl2
+Chl-PA3-19	Chloe	intron	155572	156234	1.100e-02	+	.	ID=rpl2.intron.2;Parent=rpl2
+Chl-PA3-19	Chloe	CDS	156235	156665	9.000e-03	+	2	ID=rpl2.CDS.3;Parent=rpl2
+###
+Chl-PA3-19	Chloe	gene	156709	156783	2.000e-03	-	.	ID=trnH-GUG-2;Name=trnH-GUG
+Chl-PA3-19	Chloe	tRNA	156709	156783	2.000e-03	-	.	ID=trnH-GUG-2.tRNA.1;Parent=trnH-GUG-2
+###
