@@ -1,0 +1,448 @@
+##gff-version 3.2.1
+CHL-PA3-56_complete_cloroplast	Chloe	region	1	150224	.	+	0	Is_circular=true
+CHL-PA3-56_complete_cloroplast	Chloe	source	1	150224	.	+	1	ID=source-null;gbkey=source
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	325	792	1.000e-03	+	.	ID=rpl22;Name=rpl22
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	325	792	1.000e-03	+	0	ID=rpl22.CDS.1;Parent=rpl22
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	777	1433	1.000e-03	+	.	ID=rps3;Name=rps3
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	777	1433	1.000e-03	+	0	ID=rps3.CDS.1;Parent=rps3
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	1587	3009	7.750e-02	+	.	ID=rpl16;Name=rpl16
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	1587	1595	1.000e-02	+	0	ID=rpl16.CDS.1;Parent=rpl16
+CHL-PA3-56_complete_cloroplast	Chloe	intron	1596	2610	5.000e-03	+	.	ID=rpl16.intron.2;Parent=rpl16
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	2611	3009	1.450e-01	+	0	ID=rpl16.CDS.3;Parent=rpl16
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	3137	3505	1.000e-03	+	.	ID=rpl14;Name=rpl14
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	3137	3505	1.000e-03	+	0	ID=rpl14.CDS.1;Parent=rpl14
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	3688	4092	2.000e-03	+	.	ID=rps8;Name=rps8
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	3688	4092	2.000e-03	+	0	ID=rps8.CDS.1;Parent=rps8
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	4211	4444	4.000e-03	+	.	ID=infA;Name=infA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	4211	4444	4.000e-03	+	0	ID=infA.CDS.1;Parent=infA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	4551	4664	1.000e-03	+	.	ID=rpl36;Name=rpl36
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	4551	4664	1.000e-03	+	0	ID=rpl36.CDS.1;Parent=rpl36
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	4756	5166	1.000e-03	+	.	ID=rps11;Name=rps11
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	4756	5166	1.000e-03	+	0	ID=rps11.CDS.1;Parent=rps11
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	5249	6256	0.000e+00	+	.	ID=rpoA;Name=rpoA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	5249	6256	0.000e+00	+	0	ID=rpoA.CDS.1;Parent=rpoA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	6467	7624	1.000e-03	-	.	ID=petD;Name=petD
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	7617	7624	2.000e-03	-	0	ID=petD.CDS.1;Parent=petD
+CHL-PA3-56_complete_cloroplast	Chloe	intron	6942	7616	3.000e-03	-	.	ID=petD.intron.2;Parent=petD
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	6467	6941	0.000e+00	-	1	ID=petD.CDS.3;Parent=petD
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	7813	9214	1.000e-03	-	.	ID=petB;Name=petB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	9209	9214	2.000e-03	-	0	ID=petB.CDS.1;Parent=petB
+CHL-PA3-56_complete_cloroplast	Chloe	intron	8455	9208	2.000e-03	-	.	ID=petB.intron.2;Parent=petB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	7813	8454	0.000e+00	-	0	ID=petB.CDS.3;Parent=petB
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	9339	9560	0.000e+00	-	.	ID=psbH;Name=psbH
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	9339	9560	0.000e+00	-	0	ID=psbH.CDS.1;Parent=psbH
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	9663	9794	1.000e-03	+	.	ID=pbf1;Name=pbf1
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	9663	9794	1.000e-03	+	0	ID=pbf1.CDS.1;Parent=pbf1
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	9870	9971	2.000e-03	-	.	ID=psbT;Name=psbT
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	9870	9971	2.000e-03	-	0	ID=psbT.CDS.1;Parent=psbT
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	10160	11686	0.000e+00	-	.	ID=psbB;Name=psbB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	10160	11686	0.000e+00	-	0	ID=psbB.CDS.1;Parent=psbB
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	12138	14162	5.029e-01	+	.	ID=clpP1;Name=clpP1
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	12138	12208	1.100e-02	+	0	ID=clpP1.CDS.1;Parent=clpP1
+CHL-PA3-56_complete_cloroplast	Chloe	intron	12209	13026	1.800e-02	+	.	ID=clpP1.intron.2;Parent=clpP1
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	13027	13318	1.200e-02	+	1	ID=clpP1.CDS.3;Parent=clpP1
+CHL-PA3-56_complete_cloroplast	Chloe	intron	13319	13934	2.500e-02	+	.	ID=clpP1.intron.4;Parent=clpP1
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	13935	14162	3.000e-03	+	0	ID=clpP1.CDS.5;Parent=clpP1
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	14311	15038	2.000e-03	+	.	ID=rps12A;Name=rps12A
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	14311	14424	2.000e-03	+	0	ID=rps12A.CDS.1;Parent=rps12A
+CHL-PA3-56_complete_cloroplast	Chloe	intron	14425	15038	3.000e-03	+	.	ID=rps12A.intron.2;Parent=rps12A
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	15151	15531	1.000e-03	+	.	ID=rpl20;Name=rpl20
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	15151	15531	1.000e-03	+	0	ID=rpl20.CDS.1;Parent=rpl20
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	15796	16101	0.000e+00	-	.	ID=rps18;Name=rps18
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	15796	16101	0.000e+00	-	0	ID=rps18.CDS.1;Parent=rps18
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	16277	16477	0.000e+00	-	.	ID=rpl33;Name=rpl33
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	16277	16477	0.000e+00	-	0	ID=rpl33.CDS.1;Parent=rpl33
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	16909	17043	1.000e-03	-	.	ID=psaJ;Name=psaJ
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	16909	17043	1.000e-03	-	0	ID=psaJ.CDS.1;Parent=psaJ
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	17352	17425	1.000e-03	+	.	ID=trnP-UGG;Name=trnP-UGG
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	17352	17425	1.000e-03	+	.	ID=trnP-UGG.tRNA.1;Parent=trnP-UGG
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	17603	17676	1.000e-03	+	.	ID=trnW-CCA;Name=trnW-CCA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	17603	17676	1.000e-03	+	.	ID=trnW-CCA.tRNA.1;Parent=trnW-CCA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	17794	17907	0.000e+00	-	.	ID=petG;Name=petG
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	17794	17907	0.000e+00	-	0	ID=petG.CDS.1;Parent=petG
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	18073	18168	1.000e-03	-	.	ID=petL;Name=petL
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	18073	18168	1.000e-03	-	0	ID=petL.CDS.1;Parent=petL
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	19263	19514	1.000e-03	+	.	ID=psbE;Name=psbE
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	19263	19514	1.000e-03	+	0	ID=psbE.CDS.1;Parent=psbE
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	19524	19643	1.000e-03	+	.	ID=psbF;Name=psbF
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	19524	19643	1.000e-03	+	0	ID=psbF.CDS.1;Parent=psbF
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	19666	19782	0.000e+00	+	.	ID=psbL;Name=psbL
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	19666	19782	0.000e+00	+	0	ID=psbL.CDS.1;Parent=psbL
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	19931	20053	1.000e-03	+	.	ID=psbJ;Name=psbJ
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	19931	20053	1.000e-03	+	0	ID=psbJ.CDS.1;Parent=psbJ
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	20831	21793	0.000e+00	-	.	ID=petA;Name=petA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	20831	21793	0.000e+00	-	0	ID=petA.CDS.1;Parent=petA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	22027	22716	0.000e+00	-	.	ID=cemA;Name=cemA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	22027	22716	0.000e+00	-	0	ID=cemA.CDS.1;Parent=cemA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	22967	23521	1.000e-03	-	.	ID=pafII;Name=pafII
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	22967	23521	1.000e-03	-	0	ID=pafII.CDS.1;Parent=pafII
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	23897	24007	4.000e-03	-	.	ID=psaI;Name=psaI
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	23897	24007	4.000e-03	-	0	ID=psaI.CDS.1;Parent=psaI
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	24501	25952	1.000e-03	-	.	ID=accD;Name=accD
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	24501	25952	1.000e-03	-	0	ID=accD.CDS.1;Parent=accD
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	26458	27915	0.000e+00	-	.	ID=rbcL;Name=rbcL
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	26458	27915	0.000e+00	-	0	ID=rbcL.CDS.1;Parent=rbcL
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	28678	30156	0.000e+00	+	.	ID=atpB;Name=atpB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	28678	30156	0.000e+00	+	0	ID=atpB.CDS.1;Parent=atpB
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	30153	30554	1.000e-03	+	.	ID=atpE;Name=atpE
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	30153	30554	1.000e-03	+	0	ID=atpE.CDS.1;Parent=atpE
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	30770	30842	0.000e+00	-	.	ID=trnM-CAU;Name=trnM-CAU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	30770	30842	0.000e+00	-	.	ID=trnM-CAU.tRNA.1;Parent=trnM-CAU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	31018	31665	5.500e-03	+	.	ID=trnV-UAC;Name=trnV-UAC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	31018	31055	2.000e-03	+	.	ID=trnV-UAC.tRNA.1;Parent=trnV-UAC
+CHL-PA3-56_complete_cloroplast	Chloe	intron	31056	31630	1.000e-03	+	.	ID=trnV-UAC.intron.2;Parent=trnV-UAC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	31631	31665	9.000e-03	+	.	ID=trnV-UAC.tRNA.3;Parent=trnV-UAC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	32791	33153	1.000e-03	+	.	ID=ndhC;Name=ndhC
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	32791	33153	1.000e-03	+	0	ID=ndhC.CDS.1;Parent=ndhC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	33206	33883	3.000e-03	+	.	ID=ndhK;Name=ndhK
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	33206	33883	3.000e-03	+	0	ID=ndhK.CDS.1;Parent=ndhK
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	33968	34444	1.000e-03	+	.	ID=ndhJ;Name=ndhJ
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	33968	34444	1.000e-03	+	0	ID=ndhJ.CDS.1;Parent=ndhJ
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	35138	35210	1.000e-03	-	.	ID=trnF-GAA;Name=trnF-GAA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	35138	35210	1.000e-03	-	.	ID=trnF-GAA.tRNA.1;Parent=trnF-GAA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	35571	36089	2.000e-03	-	.	ID=trnL-UAA;Name=trnL-UAA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	36055	36089	4.000e-03	-	.	ID=trnL-UAA.tRNA.1;Parent=trnL-UAA
+CHL-PA3-56_complete_cloroplast	Chloe	intron	35621	36054	6.000e-03	-	.	ID=trnL-UAA.intron.2;Parent=trnL-UAA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	35571	35620	0.000e+00	-	.	ID=trnL-UAA.tRNA.3;Parent=trnL-UAA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	36611	36683	1.000e-03	+	.	ID=trnT-UGU;Name=trnT-UGU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	36611	36683	1.000e-03	+	.	ID=trnT-UGU.tRNA.1;Parent=trnT-UGU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	37038	37643	0.000e+00	+	.	ID=rps4;Name=rps4
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	37038	37643	0.000e+00	+	0	ID=rps4.CDS.1;Parent=rps4
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	37971	38057	1.000e-03	-	.	ID=trnS-GGA;Name=trnS-GGA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	37971	38057	1.000e-03	-	.	ID=trnS-GGA.tRNA.1;Parent=trnS-GGA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	38912	40860	5.008e-01	+	.	ID=pafI;Name=pafI
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	38912	39035	1.000e-03	+	0	ID=pafI.CDS.1;Parent=pafI
+CHL-PA3-56_complete_cloroplast	Chloe	intron	39036	39737	3.000e-03	+	.	ID=pafI.intron.2;Parent=pafI
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	39738	39967	4.000e-03	+	2	ID=pafI.CDS.3;Parent=pafI
+CHL-PA3-56_complete_cloroplast	Chloe	intron	39968	40707	1.000e-03	+	.	ID=pafI.intron.4;Parent=pafI
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	40708	40860	1.000e-03	+	0	ID=pafI.CDS.5;Parent=pafI
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	41544	43796	0.000e+00	+	.	ID=psaA;Name=psaA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	41544	43796	0.000e+00	+	0	ID=psaA.CDS.1;Parent=psaA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	43822	46026	0.000e+00	+	.	ID=psaB;Name=psaB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	43822	46026	0.000e+00	+	0	ID=psaB.CDS.1;Parent=psaB
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	46160	46462	0.000e+00	+	.	ID=rps14;Name=rps14
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	46160	46462	0.000e+00	+	0	ID=rps14.CDS.1;Parent=rps14
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	46617	46690	3.000e-03	+	.	ID=trnfM-CAU;Name=trnfM-CAU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	46617	46690	3.000e-03	+	.	ID=trnfM-CAU.tRNA.1;Parent=trnfM-CAU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	46864	46934	1.000e-03	-	.	ID=trnG-GCC;Name=trnG-GCC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	46864	46934	1.000e-03	-	.	ID=trnG-GCC.tRNA.1;Parent=trnG-GCC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	47251	47439	1.000e-03	-	.	ID=psbZ;Name=psbZ
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	47251	47439	1.000e-03	-	0	ID=psbZ.CDS.1;Parent=psbZ
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	47785	47867	1.000e-03	+	.	ID=trnS-UGA;Name=trnS-UGA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	47785	47867	1.000e-03	+	.	ID=trnS-UGA.tRNA.1;Parent=trnS-UGA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	48076	49461	0.000e+00	-	.	ID=psbC;Name=psbC
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	48076	49461	0.000e+00	-	0	ID=psbC.CDS.1;Parent=psbC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	49445	50506	0.000e+00	-	.	ID=psbD;Name=psbD
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	49445	50506	0.000e+00	-	0	ID=psbD.CDS.1;Parent=psbD
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	51955	52753	2.500e-02	+	.	ID=trnG-UCC;Name=trnG-UCC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	51955	51977	2.500e-02	+	.	ID=trnG-UCC.tRNA.1;Parent=trnG-UCC
+CHL-PA3-56_complete_cloroplast	Chloe	intron	51978	52705	3.000e-02	+	.	ID=trnG-UCC.intron.2;Parent=trnG-UCC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	52706	52753	2.500e-02	+	.	ID=trnG-UCC.tRNA.3;Parent=trnG-UCC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	52975	53046	0.000e+00	+	.	ID=trnR-UCU;Name=trnR-UCU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	52975	53046	0.000e+00	+	.	ID=trnR-UCU.tRNA.1;Parent=trnR-UCU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	53172	54698	0.000e+00	-	.	ID=atpA;Name=atpA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	53172	54698	0.000e+00	-	0	ID=atpA.CDS.1;Parent=atpA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	54772	56025	1.500e-03	-	.	ID=atpF;Name=atpF
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	55881	56025	1.000e-03	-	0	ID=atpF.CDS.1;Parent=atpF
+CHL-PA3-56_complete_cloroplast	Chloe	intron	55182	55880	2.000e-03	-	.	ID=atpF.intron.2;Parent=atpF
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	54772	55181	2.000e-03	-	2	ID=atpF.CDS.3;Parent=atpF
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	56387	56632	1.000e-03	-	.	ID=atpH;Name=atpH
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	56387	56632	1.000e-03	-	0	ID=atpH.CDS.1;Parent=atpH
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	57776	58519	0.000e+00	-	.	ID=atpI;Name=atpI
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	57776	58519	0.000e+00	-	0	ID=atpI.CDS.1;Parent=atpI
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	58735	59445	0.000e+00	-	.	ID=rps2;Name=rps2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	58735	59445	0.000e+00	-	0	ID=rps2.CDS.1;Parent=rps2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	59691	63824	1.000e-03	-	.	ID=rpoC2;Name=rpoC2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	59691	63824	1.000e-03	-	0	ID=rpoC2.CDS.1;Parent=rpoC2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	63944	66748	5.000e-03	-	.	ID=rpoC1;Name=rpoC1
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	66317	66748	8.000e-03	-	0	ID=rpoC1.CDS.1;Parent=rpoC1
+CHL-PA3-56_complete_cloroplast	Chloe	intron	65582	66316	2.000e-03	-	.	ID=rpoC1.intron.2;Parent=rpoC1
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	63944	65581	2.000e-03	-	0	ID=rpoC1.CDS.3;Parent=rpoC1
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	66775	69957	0.000e+00	-	.	ID=rpoB;Name=rpoB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	66775	69957	0.000e+00	-	0	ID=rpoB.CDS.1;Parent=rpoB
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	71116	71199	0.000e+00	+	.	ID=trnY-GUA;Name=trnY-GUA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	71116	71199	0.000e+00	+	.	ID=trnY-GUA.tRNA.1;Parent=trnY-GUA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	71325	71398	1.000e-03	+	.	ID=trnD-GUC;Name=trnD-GUC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	71325	71398	1.000e-03	+	.	ID=trnD-GUC.tRNA.1;Parent=trnD-GUC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	72057	72161	1.000e-03	+	.	ID=psbM;Name=psbM
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	72057	72161	1.000e-03	+	0	ID=psbM.CDS.1;Parent=psbM
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	72673	72762	0.000e+00	-	.	ID=petN;Name=petN
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	72673	72762	0.000e+00	-	0	ID=petN.CDS.1;Parent=petN
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	73341	73411	2.000e-03	-	.	ID=trnC-GCA;Name=trnC-GCA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	73341	73411	2.000e-03	-	.	ID=trnC-GCA.tRNA.1;Parent=trnC-GCA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	74148	74235	2.000e-03	+	.	ID=trnS-GCU;Name=trnS-GCU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	74148	74235	2.000e-03	+	.	ID=trnS-GCU.tRNA.1;Parent=trnS-GCU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	74370	74480	2.000e-03	-	.	ID=psbI;Name=psbI
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	74370	74480	2.000e-03	-	0	ID=psbI.CDS.1;Parent=psbI
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	74874	75053	1.000e-03	-	.	ID=psbK;Name=psbK
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	74874	75053	1.000e-03	-	0	ID=psbK.CDS.1;Parent=psbK
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	75413	75484	1.000e-03	+	.	ID=trnQ-UUG;Name=trnQ-UUG
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	75413	75484	1.000e-03	+	.	ID=trnQ-UUG.tRNA.1;Parent=trnQ-UUG
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	76391	77452	2.200e-02	+	.	ID=rps16;Name=rps16
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	76391	76430	3.100e-02	+	0	ID=rps16.CDS.1;Parent=rps16
+CHL-PA3-56_complete_cloroplast	Chloe	intron	76431	77255	1.000e-02	+	.	ID=rps16.intron.2;Parent=rps16
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	77256	77452	1.300e-02	+	0	ID=rps16.CDS.3;Parent=rps16
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	78351	80937	7.500e-03	+	.	ID=trnK-UUU;Name=trnK-UUU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	78351	78387	9.000e-03	+	.	ID=trnK-UUU.tRNA.1;Parent=trnK-UUU
+CHL-PA3-56_complete_cloroplast	Chloe	intron	78388	80902	2.000e-03	+	.	ID=trnK-UUU.intron.2;Parent=trnK-UUU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	80903	80937	6.000e-03	+	.	ID=trnK-UUU.tRNA.3;Parent=trnK-UUU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	79117	80628	0.000e+00	+	.	ID=matK;Name=matK
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	79117	80628	0.000e+00	+	0	ID=matK.CDS.1;Parent=matK
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	81148	82209	2.000e-03	+	.	ID=psbA;Name=psbA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	81148	82209	2.000e-03	+	0	ID=psbA.CDS.1;Parent=psbA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	82593	82667	2.000e-03	+	.	ID=trnH-GUG;Name=trnH-GUG
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	82593	82667	2.000e-03	+	.	ID=trnH-GUG.tRNA.1;Parent=trnH-GUG
+###
+CHL-PA3-56_complete_cloroplast	Chloe	repeat_region	82675	107169	.	+	.	ID=IR-1;Name=IR-1
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	82790	84279	1.200e-02	-	.	ID=rpl2-2;Name=rpl2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	83889	84279	7.000e-03	-	0	ID=rpl2-2.CDS.1;Parent=rpl2-2
+CHL-PA3-56_complete_cloroplast	Chloe	intron	83224	83888	7.000e-03	-	.	ID=rpl2-2.intron.2;Parent=rpl2-2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	82790	83223	1.700e-02	-	2	ID=rpl2-2.CDS.3;Parent=rpl2-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	84298	84579	2.000e-03	-	.	ID=rpl23-2;Name=rpl23
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	84298	84579	2.000e-03	-	0	ID=rpl23-2.CDS.1;Parent=rpl23-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	84745	84818	1.000e-03	-	.	ID=trnI-CAU-2;Name=trnI-CAU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	84745	84818	1.000e-03	-	.	ID=trnI-CAU-2.tRNA.1;Parent=trnI-CAU-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	84930	91319	2.900e-02	+	.	ID=ycf2;Name=ycf2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	84930	91319	2.900e-02	+	0	ID=ycf2.CDS.1;Parent=ycf2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	91726	91806	0.000e+00	-	.	ID=trnL-CAA-2;Name=trnL-CAA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	91726	91806	0.000e+00	-	.	ID=trnL-CAA-2.tRNA.1;Parent=trnL-CAA-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	92369	94517	2.000e-03	-	.	ID=ndhB-2;Name=ndhB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	93795	94517	2.000e-03	-	0	ID=ndhB-2.CDS.1;Parent=ndhB-2
+CHL-PA3-56_complete_cloroplast	Chloe	intron	93125	93794	4.000e-03	-	.	ID=ndhB-2.intron.2;Parent=ndhB-2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	92369	93124	2.000e-03	-	0	ID=ndhB-2.CDS.3;Parent=ndhB-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	94867	95334	0.000e+00	-	.	ID=rps7-2;Name=rps7
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	94867	95334	0.000e+00	-	0	ID=rps7-2.CDS.1;Parent=rps7-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	95388	97000	6.500e-03	-	.	ID=rps12B-2;Name=rps12B
+CHL-PA3-56_complete_cloroplast	Chloe	intron	96181	97000	7.000e-03	-	.	ID=rps12B-2.intron.1;Parent=rps12B-2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	95949	96180	7.000e-03	-	0	ID=rps12B-2.CDS.2;Parent=rps12B-2
+CHL-PA3-56_complete_cloroplast	Chloe	intron	95414	95948	8.000e-03	-	.	ID=rps12B-2.intron.3;Parent=rps12B-2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	95388	95413	6.000e-03	-	2	ID=rps12B-2.CDS.4;Parent=rps12B-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	98008	98079	1.000e-03	+	.	ID=trnV-GAC;Name=trnV-GAC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	98008	98079	1.000e-03	+	.	ID=trnV-GAC.tRNA.1;Parent=trnV-GAC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	98306	99796	2.000e-03	+	.	ID=rrn16;Name=rrn16
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	98306	99796	2.000e-03	+	.	ID=rrn16.rRNA.1;Parent=rrn16
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	100090	100942	8.000e-03	+	.	ID=trnI-GAU;Name=trnI-GAU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	100090	100127	7.000e-03	+	.	ID=trnI-GAU.tRNA.1;Parent=trnI-GAU
+CHL-PA3-56_complete_cloroplast	Chloe	intron	100128	100907	2.700e-02	+	.	ID=trnI-GAU.intron.2;Parent=trnI-GAU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	100908	100942	9.000e-03	+	.	ID=trnI-GAU.tRNA.3;Parent=trnI-GAU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	101007	101891	9.000e-03	+	.	ID=trnA-UGC;Name=trnA-UGC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	101007	101044	9.000e-03	+	.	ID=trnA-UGC.tRNA.1;Parent=trnA-UGC
+CHL-PA3-56_complete_cloroplast	Chloe	intron	101045	101856	6.000e-03	+	.	ID=trnA-UGC.intron.2;Parent=trnA-UGC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	101857	101891	9.000e-03	+	.	ID=trnA-UGC.tRNA.3;Parent=trnA-UGC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	102044	104853	2.000e-03	+	.	ID=rrn23;Name=rrn23
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	102044	104853	2.000e-03	+	.	ID=rrn23.rRNA.1;Parent=rrn23
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	104952	105054	2.000e-03	+	.	ID=rrn4.5;Name=rrn4.5
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	104952	105054	2.000e-03	+	.	ID=rrn4.5.rRNA.1;Parent=rrn4.5
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	105300	105420	1.000e-03	+	.	ID=rrn5;Name=rrn5
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	105300	105420	1.000e-03	+	.	ID=rrn5.rRNA.1;Parent=rrn5
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	105666	105739	1.000e-03	+	.	ID=trnR-ACG;Name=trnR-ACG
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	105666	105739	1.000e-03	+	.	ID=trnR-ACG.tRNA.1;Parent=trnR-ACG
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	106202	106273	0.000e+00	-	.	ID=trnN-GUU-2;Name=trnN-GUU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	106202	106273	0.000e+00	-	.	ID=trnN-GUU-2.tRNA.1;Parent=trnN-GUU-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	106601	111658	2.500e-02	+	.	ID=ycf1;Name=ycf1
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	106601	111658	2.500e-02	+	0	ID=ycf1.CDS.1;Parent=ycf1
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	112059	112337	6.000e-03	+	.	ID=rps15;Name=rps15
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	112059	112337	6.000e-03	+	0	ID=rps15.CDS.1;Parent=rps15
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	112429	113610	0.000e+00	+	.	ID=ndhH;Name=ndhH
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	112429	113610	0.000e+00	+	0	ID=ndhH.CDS.1;Parent=ndhH
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	113612	115799	2.500e-03	+	.	ID=ndhA;Name=ndhA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	113612	114164	2.000e-03	+	0	ID=ndhA.CDS.1;Parent=ndhA
+CHL-PA3-56_complete_cloroplast	Chloe	intron	114165	115260	9.000e-03	+	.	ID=ndhA.intron.2;Parent=ndhA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	115261	115799	3.000e-03	+	2	ID=ndhA.CDS.3;Parent=ndhA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	115876	116376	1.000e-03	+	.	ID=ndhI;Name=ndhI
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	115876	116376	1.000e-03	+	0	ID=ndhI.CDS.1;Parent=ndhI
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	116766	117296	1.000e-03	+	.	ID=ndhG;Name=ndhG
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	116766	117296	1.000e-03	+	0	ID=ndhG.CDS.1;Parent=ndhG
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	117498	117803	0.000e+00	+	.	ID=ndhE;Name=ndhE
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	117498	117803	0.000e+00	+	0	ID=ndhE.CDS.1;Parent=ndhE
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	118037	118282	3.000e-03	+	.	ID=psaC;Name=psaC
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	118037	118282	3.000e-03	+	0	ID=psaC.CDS.1;Parent=psaC
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	118398	119900	0.000e+00	+	.	ID=ndhD;Name=ndhD
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	118398	119900	0.000e+00	+	0	ID=ndhD.CDS.1;Parent=ndhD
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	120105	121073	2.000e-03	-	.	ID=ccsA;Name=ccsA
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	120105	121073	2.000e-03	-	0	ID=ccsA.CDS.1;Parent=ccsA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	121180	121259	1.000e-03	-	.	ID=trnL-UAG;Name=trnL-UAG
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	121180	121259	1.000e-03	-	.	ID=trnL-UAG.tRNA.1;Parent=trnL-UAG
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	122212	122376	2.000e-03	-	.	ID=rpl32;Name=rpl32
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	122212	122376	2.000e-03	-	0	ID=rpl32.CDS.1;Parent=rpl32
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	123403	125631	1.000e-03	+	.	ID=ndhF;Name=ndhF
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	123403	125631	1.000e-03	+	0	ID=ndhF.CDS.1;Parent=ndhF
+###
+CHL-PA3-56_complete_cloroplast	Chloe	repeat_region	125730	150224	.	-	.	ID=IR-2;Name=IR-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	126626	126697	0.000e+00	+	.	ID=trnN-GUU;Name=trnN-GUU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	126626	126697	0.000e+00	+	.	ID=trnN-GUU.tRNA.1;Parent=trnN-GUU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	127160	127233	1.000e-03	-	.	ID=trnR-ACG-2;Name=trnR-ACG
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	127160	127233	1.000e-03	-	.	ID=trnR-ACG-2.tRNA.1;Parent=trnR-ACG-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	127479	127599	1.000e-03	-	.	ID=rrn5-2;Name=rrn5
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	127479	127599	1.000e-03	-	.	ID=rrn5-2.rRNA.1;Parent=rrn5-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	127845	127947	2.000e-03	-	.	ID=rrn4.5-2;Name=rrn4.5
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	127845	127947	2.000e-03	-	.	ID=rrn4.5-2.rRNA.1;Parent=rrn4.5-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	128046	130855	2.000e-03	-	.	ID=rrn23-2;Name=rrn23
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	128046	130855	2.000e-03	-	.	ID=rrn23-2.rRNA.1;Parent=rrn23-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	131008	131892	9.000e-03	-	.	ID=trnA-UGC-2;Name=trnA-UGC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	131855	131892	9.000e-03	-	.	ID=trnA-UGC-2.tRNA.1;Parent=trnA-UGC-2
+CHL-PA3-56_complete_cloroplast	Chloe	intron	131043	131854	6.000e-03	-	.	ID=trnA-UGC-2.intron.2;Parent=trnA-UGC-2
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	131008	131042	9.000e-03	-	.	ID=trnA-UGC-2.tRNA.3;Parent=trnA-UGC-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	131957	132809	8.000e-03	-	.	ID=trnI-GAU-2;Name=trnI-GAU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	132772	132809	7.000e-03	-	.	ID=trnI-GAU-2.tRNA.1;Parent=trnI-GAU-2
+CHL-PA3-56_complete_cloroplast	Chloe	intron	131992	132771	2.700e-02	-	.	ID=trnI-GAU-2.intron.2;Parent=trnI-GAU-2
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	131957	131991	9.000e-03	-	.	ID=trnI-GAU-2.tRNA.3;Parent=trnI-GAU-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	133103	134593	2.000e-03	-	.	ID=rrn16-2;Name=rrn16
+CHL-PA3-56_complete_cloroplast	Chloe	rRNA	133103	134593	2.000e-03	-	.	ID=rrn16-2.rRNA.1;Parent=rrn16-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	134820	134891	1.000e-03	-	.	ID=trnV-GAC-2;Name=trnV-GAC
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	134820	134891	1.000e-03	-	.	ID=trnV-GAC-2.tRNA.1;Parent=trnV-GAC-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	135899	137511	6.500e-03	+	.	ID=rps12B;Name=rps12B
+CHL-PA3-56_complete_cloroplast	Chloe	intron	135899	136718	7.000e-03	+	.	ID=rps12B.intron.1;Parent=rps12B
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	136719	136950	7.000e-03	+	0	ID=rps12B.CDS.2;Parent=rps12B
+CHL-PA3-56_complete_cloroplast	Chloe	intron	136951	137485	8.000e-03	+	.	ID=rps12B.intron.3;Parent=rps12B
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	137486	137511	6.000e-03	+	2	ID=rps12B.CDS.4;Parent=rps12B
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	137565	138032	0.000e+00	+	.	ID=rps7;Name=rps7
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	137565	138032	0.000e+00	+	0	ID=rps7.CDS.1;Parent=rps7
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	138382	140530	2.000e-03	+	.	ID=ndhB;Name=ndhB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	138382	139104	2.000e-03	+	0	ID=ndhB.CDS.1;Parent=ndhB
+CHL-PA3-56_complete_cloroplast	Chloe	intron	139105	139774	4.000e-03	+	.	ID=ndhB.intron.2;Parent=ndhB
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	139775	140530	2.000e-03	+	0	ID=ndhB.CDS.3;Parent=ndhB
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	141093	141173	0.000e+00	+	.	ID=trnL-CAA;Name=trnL-CAA
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	141093	141173	0.000e+00	+	.	ID=trnL-CAA.tRNA.1;Parent=trnL-CAA
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	141580	147969	2.900e-02	-	.	ID=ycf2-2;Name=ycf2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	141580	147969	2.900e-02	-	0	ID=ycf2-2.CDS.1;Parent=ycf2-2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	148081	148154	1.000e-03	+	.	ID=trnI-CAU;Name=trnI-CAU
+CHL-PA3-56_complete_cloroplast	Chloe	tRNA	148081	148154	1.000e-03	+	.	ID=trnI-CAU.tRNA.1;Parent=trnI-CAU
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	148320	148601	2.000e-03	+	.	ID=rpl23;Name=rpl23
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	148320	148601	2.000e-03	+	0	ID=rpl23.CDS.1;Parent=rpl23
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	148620	150109	7.000e-03	+	.	ID=rpl2;Name=rpl2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	148620	149010	7.000e-03	+	0	ID=rpl2.CDS.1;Parent=rpl2
+CHL-PA3-56_complete_cloroplast	Chloe	intron	149011	149675	7.000e-03	+	.	ID=rpl2.intron.2;Parent=rpl2
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	149676	150109	7.000e-03	+	2	ID=rpl2.CDS.3;Parent=rpl2
+###
+CHL-PA3-56_complete_cloroplast	Chloe	gene	150164	150442	4.300e-02	+	.	ID=rps19;Name=rps19
+CHL-PA3-56_complete_cloroplast	Chloe	CDS	150164	218	4.300e-02	+	0	ID=rps19.CDS.1;Parent=rps19
+###

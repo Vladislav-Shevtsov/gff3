@@ -101,7 +101,8 @@ def format_gene_cds_list(df):
                 'start': row['start'],
                 'end': row['end'],
                 'CDS': [],
-                'tRNA': []
+                'tRNA': [],
+                'rRNA':[]
             }
         elif row['type'] == 'CDS':
             # If it's a CDS entry, check if it's contiguous with previous CDS
@@ -133,6 +134,22 @@ def format_gene_cds_list(df):
                         
                         
                     })
+        elif row['type'] == 'rRNA':
+            # If it's a tRNA entry, check if it's contiguous with previous tRNA
+            if current_gene is not None:
+                if (current_gene_data['rRNA'] and 
+                    current_gene_data['rRNA'][-1]['end'] + 1 == row['start']):
+                    # Merge with previous tRNA if contiguous
+                    current_gene_data['rRNA'][-1]['end'] = row['end']
+                else:
+                    # Otherwise, add new tRNA entry
+                    current_gene_data['rRNA'].append({
+                        'type': 'rRNA',
+                        'start': row['start'],
+                        'end': row['end'],
+                        
+                        
+                    })            
 
     # Append the last gene data
     if current_gene is not None:
@@ -155,6 +172,7 @@ def format_output(formatted_list):
         # Track if 'CDS' and 'tRNA' labels have been added for the gene
         cds_label_added = False
         trna_label_added = False
+        rrna_label_added = False
 
         # Output CDS entries
         for idx, cds_entry in enumerate(entry['CDS']):
@@ -171,7 +189,7 @@ def format_output(formatted_list):
             product = "\t\t\tproduct\t"
             codon_start_line = "\t\t\tcodon_start\t1"
             transl_table_line = "\t\t\ttransl_table\t11"
-            formatted_text.extend([product, codon_start_line, transl_table_line])
+            formatted_text.extend([product, codon_start_line, transl_table_line.rstrip()])
 
         # Output tRNA entries
         for idx, trna_entry in enumerate(entry['tRNA']):
@@ -186,12 +204,24 @@ def format_output(formatted_list):
             # Add product line after tRNA entries
         if entry['tRNA']:
             product = "\t\t\tproduct\t"
-            formatted_text.append(product)
+            formatted_text.append(product.rstrip())
 
-        # Add an empty line after each gene entry except the last one
-        if entry != formatted_list[-1]:
-            formatted_text.append("")
-
+       
+            
+        for idx, rrna_entry in enumerate(entry['rRNA']):
+            if not rrna_label_added:
+                rrna_line = f"{rrna_entry['start']}\t{rrna_entry['end']}\trRNA"
+                formatted_text.append(rrna_line)
+                rrna_label_added = True
+            else:
+                rrna_line = f"{rrna_entry['start']}\t{rrna_entry['end']}"
+                formatted_text.append(rrna_line)
+         # Add product line after tRNA entries
+        if entry['rRNA']:
+            product = "\t\t\tproduct\t"
+            formatted_text.append(product.rstrip())
+            
+        
     return "\n".join(formatted_text)
 
 def save_to_file(formatted_output, file_path):
