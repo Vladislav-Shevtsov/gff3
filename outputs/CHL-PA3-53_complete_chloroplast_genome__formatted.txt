@@ -1,3 +1,4 @@
+>feature	CHL-PA3-53
 360	1103	gene
 			gene	atpI
 360	1103	CDS

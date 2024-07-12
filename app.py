@@ -83,9 +83,10 @@ def process_gff3(file_path):
     original_filename = os.path.splitext(os.path.basename(file_path))[0]
     output_filename = f"{original_filename}_formatted.txt"
     output_file_path = os.path.join(OUTPUT_FOLDER, output_filename)
+    feature_line = f">feature\t{output_filename.split('_')[0]}\n"
 
     # Save formatted output to file
-    save_to_file(formatted_output, output_file_path)
+    save_to_file(formatted_output, output_file_path,feature_line )
 
     return output_filename
 
@@ -257,8 +258,11 @@ def format_output(formatted_list):
     return "\n".join(formatted_text)
 
 feature_name= f'>feature\t'
-def save_to_file(formatted_output, file_path):
+def save_to_file(formatted_output, file_path,feature_line):
+    #feature_line=f'>feature\t'
     with open(file_path, 'w') as file:
+        
+        file.write(feature_line)
         file.write(formatted_output)
     print(f"Formatted output saved to {file_path}")
 
