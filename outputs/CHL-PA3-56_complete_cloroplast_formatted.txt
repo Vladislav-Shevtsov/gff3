@@ -1,94 +1,94 @@
 325	792	gene
 			gene	rpl22
 325	792	CDS
-			product	
+			product	50S ribosomal protein L22
 			codon_start	1
 			transl_table	11
 777	1433	gene
 			gene	rps3
 777	1433	CDS
-			product	
+			product	ribosomal protein S3
 			codon_start	1
 			transl_table	11
 1587	3009	gene
 			gene	rpl16
 1587	1595	CDS
 2611	3009
-			product	
+			product	ribosomal protein L16
 			codon_start	1
 			transl_table	11
 3137	3505	gene
 			gene	rpl14
 3137	3505	CDS
-			product	
+			product	ribosomal protein L14
 			codon_start	1
 			transl_table	11
 3688	4092	gene
 			gene	rps8
 3688	4092	CDS
-			product	
+			product	ribosomal protein S8
 			codon_start	1
 			transl_table	11
 4211	4444	gene
 			gene	infA
 4211	4444	CDS
-			product	
+			product	translational initiation factor 1
 			codon_start	1
 			transl_table	11
 4551	4664	gene
 			gene	rpl36
 4551	4664	CDS
-			product	
+			product	ribosomal protein L36
 			codon_start	1
 			transl_table	11
 4756	5166	gene
 			gene	rps11
 4756	5166	CDS
-			product	
+			product	ribosomal protein S11
 			codon_start	1
 			transl_table	11
 5249	6256	gene
 			gene	rpoA
 5249	6256	CDS
-			product	
+			product	RNA polymerase alpha subunit
 			codon_start	1
 			transl_table	11
 7624	6467	gene
 			gene	petD
 7624	7617	CDS
 6941	6467
-			product	
+			product	cytochrome b6/f complex subunit IV
 			codon_start	1
 			transl_table	11
 9214	7813	gene
 			gene	petB
 9214	9209	CDS
 8454	7813
-			product	
+			product	cytochrome b6
 			codon_start	1
 			transl_table	11
 9560	9339	gene
 			gene	psbH
 9560	9339	CDS
-			product	
+			product	photosystem II phosphoprotein
 			codon_start	1
 			transl_table	11
 9663	9794	gene
 			gene	pbf1
 9663	9794	CDS
-			product	
+			product	photosystem biogenesis factor 1
 			codon_start	1
 			transl_table	11
 9971	9870	gene
 			gene	psbT
 9971	9870	CDS
-			product	
+			product	photosystem II protein T
 			codon_start	1
 			transl_table	11
 11686	10160	gene
 			gene	psbB
 11686	10160	CDS
-			product	
+			product	PSII 47 kDa protein
 			codon_start	1
 			transl_table	11
 12138	14162	gene
@@ -96,618 +96,622 @@
 12138	12208	CDS
 13027	13318
 13935	14162
-			product	
+			product	ATP-dependent Clp protease proteolytic subunit 1
 			codon_start	1
 			transl_table	11
 14311	15038	gene
 			gene	rps12A
 14311	14424	CDS
-			product	
+			product	ribosomal protein S12
 			codon_start	1
 			transl_table	11
 15151	15531	gene
 			gene	rpl20
 15151	15531	CDS
-			product	
+			product	ribosomal protein L20
 			codon_start	1
 			transl_table	11
 16101	15796	gene
 			gene	rps18
 16101	15796	CDS
-			product	
+			product	ribosomal protein S18
 			codon_start	1
 			transl_table	11
 16477	16277	gene
 			gene	rpl33
 16477	16277	CDS
-			product	
+			product	ribosomal protein L33
 			codon_start	1
 			transl_table	11
 17043	16909	gene
 			gene	psaJ
 17043	16909	CDS
-			product	
+			product	photosystem I subunit IX
 			codon_start	1
 			transl_table	11
 17352	17425	gene
 			gene	trnP-UGG
 17352	17425	tRNA
-			product
+			product	tRNA-Pro
 17603	17676	gene
 			gene	trnW-CCA
 17603	17676	tRNA
-			product
+			product	tRNA-Trp
 17907	17794	gene
 			gene	petG
 17907	17794	CDS
-			product	
+			product	cytochrome b6/f complex subunit V
 			codon_start	1
 			transl_table	11
 18168	18073	gene
 			gene	petL
 18168	18073	CDS
-			product	
+			product	cytochrome b/f complex 3.5 kDa subunit
 			codon_start	1
 			transl_table	11
 19263	19514	gene
 			gene	psbE
 19263	19514	CDS
-			product	
+			product	photosystem II protein V
 			codon_start	1
 			transl_table	11
 19524	19643	gene
 			gene	psbF
 19524	19643	CDS
-			product	
+			product	photosystem II protein VI
 			codon_start	1
 			transl_table	11
 19666	19782	gene
 			gene	psbL
 19666	19782	CDS
-			product	
+			product	photosystem II protein L
 			codon_start	1
 			transl_table	11
 19931	20053	gene
 			gene	psbJ
 19931	20053	CDS
-			product	
+			product	photosystem II protein J
 			codon_start	1
 			transl_table	11
 21793	20831	gene
 			gene	petA
 21793	20831	CDS
-			product	
+			product	component of cytochrome b6/f complex
 			codon_start	1
 			transl_table	11
 22716	22027	gene
 			gene	cemA
 22716	22027	CDS
-			product	
+			product	envelope membrane protein
 			codon_start	1
 			transl_table	11
 23521	22967	gene
 			gene	pafII
 23521	22967	CDS
-			product	
+			product	photosystem I assembly factor II
 			codon_start	1
 			transl_table	11
 24007	23897	gene
 			gene	psaI
 24007	23897	CDS
-			product	
+			product	photosystem I subunit VIII
 			codon_start	1
 			transl_table	11
 25952	24501	gene
 			gene	accD
 25952	24501	CDS
-			product	
+			product	acetyl-CoA carboxylase beta subunit
 			codon_start	1
 			transl_table	11
 27915	26458	gene
 			gene	rbcL
 27915	26458	CDS
-			product	
+			product	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit
 			codon_start	1
 			transl_table	11
 28678	30156	gene
 			gene	atpB
 28678	30156	CDS
-			product	
+			product	ATP synthase CF1 beta subunit
 			codon_start	1
 			transl_table	11
 30153	30554	gene
 			gene	atpE
 30153	30554	CDS
-			product	
+			product	ATP synthase CF1 epsilon subunit
 			codon_start	1
 			transl_table	11
 30842	30770	gene
 			gene	trnM-CAU
 30842	30770	tRNA
-			product
+			product	tRNA-Met
 31018	31665	gene
 			gene	trnV-UAC
 31018	31055	tRNA
 31631	31665
-			product
+			product	tRNA-Val
 32791	33153	gene
 			gene	ndhC
 32791	33153	CDS
-			product	
+			product	NADH dehydrogenase subunit 3
 			codon_start	1
 			transl_table	11
 33206	33883	gene
 			gene	ndhK
 33206	33883	CDS
-			product	
+			product	NADH dehydrogenase subunit K
 			codon_start	1
 			transl_table	11
 33968	34444	gene
 			gene	ndhJ
 33968	34444	CDS
-			product	
+			product	NADH dehydrogenase subunit J
 			codon_start	1
 			transl_table	11
 35210	35138	gene
 			gene	trnF-GAA
 35210	35138	tRNA
-			product
+			product	tRNA-Phe
 36089	35571	gene
 			gene	trnL-UAA
 36089	36055	tRNA
 35620	35571
-			product
+			product	tRNA-Leu
 36611	36683	gene
 			gene	trnT-UGU
 36611	36683	tRNA
-			product
+			product	tRNA-Thr
 37038	37643	gene
 			gene	rps4
 37038	37643	CDS
-			product	
+			product	ribosomal protein S4
 			codon_start	1
 			transl_table	11
 38057	37971	gene
 			gene	trnS-GGA
 38057	37971	tRNA
-			product
+			product	tRNA-Ser
 38912	40860	gene
 			gene	pafI
 38912	39035	CDS
 39738	39967
 40708	40860
-			product	
+			product	photosystem I assembly factor I
 			codon_start	1
 			transl_table	11
 41544	43796	gene
 			gene	psaA
 41544	43796	CDS
-			product	
+			product	photosystem I P700 apoprotein A1
 			codon_start	1
 			transl_table	11
 43822	46026	gene
 			gene	psaB
 43822	46026	CDS
-			product	
+			product	photosystem I P700 apoprotein A2
 			codon_start	1
 			transl_table	11
 46160	46462	gene
 			gene	rps14
 46160	46462	CDS
-			product	
+			product	ribosomal protein S14
 			codon_start	1
 			transl_table	11
 46617	46690	gene
 			gene	trnfM-CAU
 46617	46690	tRNA
-			product
+			product	tRNA-Met
 46934	46864	gene
 			gene	trnG-GCC
 46934	46864	tRNA
-			product
+			product	tRNA-Gly
 47439	47251	gene
 			gene	psbZ
 47439	47251	CDS
-			product	
+			product	photosystem II protein z
 			codon_start	1
 			transl_table	11
 47785	47867	gene
 			gene	trnS-UGA
 47785	47867	tRNA
-			product
+			product	tRNA-Ser
 49461	48076	gene
 			gene	psbC
 49461	48076	CDS
-			product	
+			product	photosystem II 44 kDa protein
 			codon_start	1
 			transl_table	11
 50506	49445	gene
 			gene	psbD
 50506	49445	CDS
-			product	
+			product	photosystem II protein D2
 			codon_start	1
 			transl_table	11
 51955	52753	gene
 			gene	trnG-UCC
 51955	51977	tRNA
 52706	52753
-			product
+			product	tRNA-Gly
 52975	53046	gene
 			gene	trnR-UCU
 52975	53046	tRNA
-			product
+			product	tRNA-Arg
 54698	53172	gene
 			gene	atpA
 54698	53172	CDS
-			product	
+			product	ATP synthase CF1 alpha subunit
 			codon_start	1
 			transl_table	11
 56025	54772	gene
 			gene	atpF
 56025	55881	CDS
 55181	54772
-			product	
+			product	ATP synthase CF0 B subunit
 			codon_start	1
 			transl_table	11
 56632	56387	gene
 			gene	atpH
 56632	56387	CDS
-			product	
+			product	ATP synthase CF0 C chain
 			codon_start	1
 			transl_table	11
 58519	57776	gene
 			gene	atpI
 58519	57776	CDS
-			product	
+			product	ATP synthase CF0 A chain
 			codon_start	1
 			transl_table	11
 59445	58735	gene
 			gene	rps2
 59445	58735	CDS
-			product	
+			product	ribosomal protein S2
 			codon_start	1
 			transl_table	11
 63824	59691	gene
 			gene	rpoC2
 63824	59691	CDS
-			product	
+			product	RNA polymerase beta subunit-2
 			codon_start	1
 			transl_table	11
 66748	63944	gene
 			gene	rpoC1
 66748	66317	CDS
 65581	63944
-			product	
+			product	RNA polymerase beta' subunit
 			codon_start	1
 			transl_table	11
 69957	66775	gene
 			gene	rpoB
 69957	66775	CDS
-			product	
+			product	RNA polymerase beta subunit
 			codon_start	1
 			transl_table	11
 71116	71199	gene
 			gene	trnY-GUA
 71116	71199	tRNA
-			product
+			product	tRNA-Tyr
 71325	71398	gene
 			gene	trnD-GUC
 71325	71398	tRNA
-			product
+			product	tRNA-Asp
 72057	72161	gene
 			gene	psbM
 72057	72161	CDS
-			product	
+			product	photosystem II M protein
 			codon_start	1
 			transl_table	11
 72762	72673	gene
 			gene	petN
 72762	72673	CDS
-			product	
+			product	cytochrome b6/f complex subunit VIII
 			codon_start	1
 			transl_table	11
 73411	73341	gene
 			gene	trnC-GCA
 73411	73341	tRNA
-			product
+			product	tRNA-Cys
 74148	74235	gene
 			gene	trnS-GCU
 74148	74235	tRNA
-			product
+			product	tRNA-Ser
 74480	74370	gene
 			gene	psbI
 74480	74370	CDS
-			product	
+			product	photosystem II protein I
 			codon_start	1
 			transl_table	11
 75053	74874	gene
 			gene	psbK
 75053	74874	CDS
-			product	
+			product	photosystem II protein K
 			codon_start	1
 			transl_table	11
 75413	75484	gene
 			gene	trnQ-UUG
 75413	75484	tRNA
-			product
+			product	tRNA-Gln
 76391	77452	gene
 			gene	rps16
 76391	76430	CDS
 77256	77452
-			product	
+			product	30S ribosomal protein S16
 			codon_start	1
 			transl_table	11
 78351	80937	gene
 			gene	trnK-UUU
 78351	78387	tRNA
 80903	80937
-			product
+			product	tRNA-Lys
 79117	80628	gene
 			gene	matK
 79117	80628	CDS
-			product	
+			product	maturase K
 			codon_start	1
 			transl_table	11
 81148	82209	gene
 			gene	psbA
 81148	82209	CDS
-			product	
+			product	photosystem II protein D1
 			codon_start	1
 			transl_table	11
 82593	82667	gene
 			gene	trnH-GUG
 82593	82667	tRNA
-			product
+			product	tRNA-Gly
+82675	107169	repeat_region
+			note	inverted repeat A
 84279	82790	gene
 			gene	rpl2
 84279	83889	CDS
 83223	82790
-			product	
+			product	ribosomal protein L2
 			codon_start	1
 			transl_table	11
 84579	84298	gene
 			gene	rpl23
 84579	84298	CDS
-			product	
+			product	ribosomal protein L23
 			codon_start	1
 			transl_table	11
 84818	84745	gene
 			gene	trnI-CAU
 84818	84745	tRNA
-			product
+			product	tRNA-Ile
 84930	91319	gene
 			gene	ycf2
 84930	91319	CDS
-			product	
+			product	hypothetical chloroplast RF2
 			codon_start	1
 			transl_table	11
 91806	91726	gene
 			gene	trnL-CAA
 91806	91726	tRNA
-			product
+			product	tRNA-Leu
 94517	92369	gene
 			gene	ndhB
 94517	93795	CDS
 93124	92369
-			product	
+			product	NADH dehydrogenase subunit 2
 			codon_start	1
 			transl_table	11
 95334	94867	gene
 			gene	rps7
 95334	94867	CDS
-			product	
+			product	ribosomal protein S7
 			codon_start	1
 			transl_table	11
 97000	95388	gene
 			gene	rps12B
 96180	95949	CDS
 95413	95388
-			product	
+			product	ribosomal protein S12
 			codon_start	1
 			transl_table	11
 98008	98079	gene
 			gene	trnV-GAC
 98008	98079	tRNA
-			product
+			product	tRNA-Val
 98306	99796	gene
 			gene	rrn16
 98306	99796	rRNA
-			product
+			product	16S ribosomal RNA
 100090	100942	gene
 			gene	trnI-GAU
 100090	100127	tRNA
 100908	100942
-			product
+			product	tRNA-Ile
 101007	101891	gene
 			gene	trnA-UGC
 101007	101044	tRNA
 101857	101891
-			product
+			product	tRNA-Ala
 102044	104853	gene
 			gene	rrn23
 102044	104853	rRNA
-			product
+			product	23S ribosomal RNA
 104952	105054	gene
 			gene	rrn4.5
 104952	105054	rRNA
-			product
+			product	4.5S ribosomal RNA
 105300	105420	gene
 			gene	rrn5
 105300	105420	rRNA
-			product
+			product	5S ribosomal RNA
 105666	105739	gene
 			gene	trnR-ACG
 105666	105739	tRNA
-			product
+			product	tRNA-Arg
 106273	106202	gene
 			gene	trnN-GUU
 106273	106202	tRNA
-			product
+			product	tRNA-Asn
 106601	111658	gene
 			gene	ycf1
 106601	111658	CDS
-			product	
+			product	photosystem I assembly protein Ycf1
 			codon_start	1
 			transl_table	11
 112059	112337	gene
 			gene	rps15
 112059	112337	CDS
-			product	
+			product	ribosomal protein S15
 			codon_start	1
 			transl_table	11
 112429	113610	gene
 			gene	ndhH
 112429	113610	CDS
-			product	
+			product	NADH dehydrogenase subunit 7
 			codon_start	1
 			transl_table	11
 113612	115799	gene
 			gene	ndhA
 113612	114164	CDS
 115261	115799
-			product	
+			product	NADH dehydrogenase subunit 1
 			codon_start	1
 			transl_table	11
 115876	116376	gene
 			gene	ndhI
 115876	116376	CDS
-			product	
+			product	NADH dehydrogenase subunit I
 			codon_start	1
 			transl_table	11
 116766	117296	gene
 			gene	ndhG
 116766	117296	CDS
-			product	
+			product	ndhG
 			codon_start	1
 			transl_table	11
 117498	117803	gene
 			gene	ndhE
 117498	117803	CDS
-			product	
+			product	NADH dehydrogenase subunit 4L
 			codon_start	1
 			transl_table	11
 118037	118282	gene
 			gene	psaC
 118037	118282	CDS
-			product	
+			product	photosystem I subunit VII
 			codon_start	1
 			transl_table	11
 118398	119900	gene
 			gene	ndhD
 118398	119900	CDS
-			product	
+			product	NADH dehydrogenase subunit 4
 			codon_start	1
 			transl_table	11
 121073	120105	gene
 			gene	ccsA
 121073	120105	CDS
-			product	
+			product	cytochrome c biogenesis protein
 			codon_start	1
 			transl_table	11
 121259	121180	gene
 			gene	trnL-UAG
 121259	121180	tRNA
-			product
+			product	tRNA-Leu
 122376	122212	gene
 			gene	rpl32
 122376	122212	CDS
-			product	
+			product	50S ribosomal protein L32
 			codon_start	1
 			transl_table	11
 123403	125631	gene
 			gene	ndhF
 123403	125631	CDS
-			product	
+			product	NADH dehydrogenase subunit 5
 			codon_start	1
 			transl_table	11
+150224	125730	repeat_region
+			note	inverted repeat B
 126626	126697	gene
 			gene	trnN-GUU
 126626	126697	tRNA
-			product
+			product	tRNA-Asn
 127233	127160	gene
 			gene	trnR-ACG
 127233	127160	tRNA
-			product
+			product	tRNA-Arg
 127599	127479	gene
 			gene	rrn5
 127599	127479	rRNA
-			product
+			product	5S ribosomal RNA
 127947	127845	gene
 			gene	rrn4.5
 127947	127845	rRNA
-			product
+			product	4.5S ribosomal RNA
 130855	128046	gene
 			gene	rrn23
 130855	128046	rRNA
-			product
+			product	23S ribosomal RNA
 131892	131008	gene
 			gene	trnA-UGC
 131892	131855	tRNA
 131042	131008
-			product
+			product	tRNA-Ala
 132809	131957	gene
 			gene	trnI-GAU
 132809	132772	tRNA
 131991	131957
-			product
+			product	tRNA-Ile
 134593	133103	gene
 			gene	rrn16
 134593	133103	rRNA
-			product
+			product	16S ribosomal RNA
 134891	134820	gene
 			gene	trnV-GAC
 134891	134820	tRNA
-			product
+			product	tRNA-Val
 135899	137511	gene
 			gene	rps12B
 136719	136950	CDS
 137486	137511
-			product	
+			product	ribosomal protein S12
 			codon_start	1
 			transl_table	11
 137565	138032	gene
 			gene	rps7
 137565	138032	CDS
-			product	
+			product	ribosomal protein S7
 			codon_start	1
 			transl_table	11
 138382	140530	gene
 			gene	ndhB
 138382	139104	CDS
 139775	140530
-			product	
+			product	NADH dehydrogenase subunit 2
 			codon_start	1
 			transl_table	11
 141093	141173	gene
 			gene	trnL-CAA
 141093	141173	tRNA
-			product
+			product	tRNA-Leu
 147969	141580	gene
 			gene	ycf2
 147969	141580	CDS
-			product	
+			product	hypothetical chloroplast RF2
 			codon_start	1
 			transl_table	11
 148081	148154	gene
 			gene	trnI-CAU
 148081	148154	tRNA
-			product
+			product	tRNA-Ile
 148320	148601	gene
 			gene	rpl23
 148320	148601	CDS
-			product	
+			product	ribosomal protein L23
 			codon_start	1
 			transl_table	11
 148620	150109	gene
 			gene	rpl2
 148620	149010	CDS
 149676	150109
-			product	
+			product	ribosomal protein L2
 			codon_start	1
 			transl_table	11
 150164	150442	gene
 			gene	rps19
 150164	218	CDS
-			product	
+			product	ribosomal protein S19
 			codon_start	1
 			transl_table	11

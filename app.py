@@ -2,6 +2,7 @@ from flask import Flask, request, send_file, jsonify
 from flask_cors import CORS
 import pandas as pd
 import os
+import pickle
 
 
 app = Flask(__name__, static_folder='static')
@@ -13,6 +14,10 @@ OUTPUT_FOLDER = 'outputs'
 # Ensure the upload and output directories exist
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+# Load the gene_product_map from the pickle file
+with open('gene_product_map.pkl', 'rb') as f:
+    gene_product_map = pickle.load(f)
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
@@ -103,7 +108,8 @@ def format_gene_cds_list(df):
                 'end': row['end'],
                 'CDS': [],
                 'tRNA': [],
-                'rRNA':[]
+                'rRNA':[],
+                'repeat_region':[]
             }
         elif row['type'] == 'CDS':
             # If it's a CDS entry, check if it's contiguous with previous CDS
@@ -150,8 +156,21 @@ def format_gene_cds_list(df):
                         'end': row['end'],
                         
                         
-                    })            
-
+                    })   
+        elif row['type'] == 'repeat_region':     
+            if current_gene is not None:
+                if(current_gene_data['repeat_region'] and
+                    current_gene_data['repeat_region'][-1]['end'] + 1 == row['start']):
+                        # Merge with previous 
+                    current_gene_data['rRNA'][-1]['end'] = row['end']
+                else:
+                    current_gene_data['repeat_region'].append({
+                        'type':'repeat_region',
+                       'start': row['start'],
+                        'end': row['end']
+                    })
+                
+        
     # Append the last gene data
     if current_gene is not None:
         formatted_list.append(current_gene_data)
@@ -160,7 +179,7 @@ def format_gene_cds_list(df):
 
 def format_output(formatted_list):
     formatted_text = []
-
+    countt = 0
     for entry in formatted_list:
         # Gene line
         gene_line = f"{entry['start']}\t{entry['end']}\tgene"
@@ -187,7 +206,7 @@ def format_output(formatted_list):
 
         # Add product, codon_start, and transl_table lines only if there are CDS entries
         if entry['CDS']:
-            product = "\t\t\tproduct\t"
+            product = f"\t\t\tproduct\t{gene_product_map[entry['gene']]}" 
             codon_start_line = "\t\t\tcodon_start\t1"
             transl_table_line = "\t\t\ttransl_table\t11"
             formatted_text.extend([product, codon_start_line, transl_table_line.rstrip()])
@@ -204,7 +223,7 @@ def format_output(formatted_list):
                 
             # Add product line after tRNA entries
         if entry['tRNA']:
-            product = "\t\t\tproduct\t"
+            product = f"\t\t\tproduct\t{gene_product_map[entry['gene']]}" 
             formatted_text.append(product.rstrip())
 
        
@@ -219,12 +238,25 @@ def format_output(formatted_list):
                 formatted_text.append(rrna_line)
          # Add product line after tRNA entries
         if entry['rRNA']:
-            product = "\t\t\tproduct\t"
+            product = f"\t\t\tproduct\t{gene_product_map[entry['gene']]}" 
             formatted_text.append(product.rstrip())
             
-        
+        for idx, repeating_entry in enumerate(entry['repeat_region']):
+            if entry['repeat_region']:
+                countt+=1
+            repeating_line = f"{repeating_entry['start']}\t{repeating_entry['end']}\trepeat_region"
+            formatted_text.append(repeating_line)
+            
+            if countt == 1:
+                product = f'\t\t\tnote\tinverted repeat A'
+            elif countt ==2:
+                product = f'\t\t\tnote\tinverted repeat B'
+            	
+            formatted_text.append(product.rstrip())
+            
     return "\n".join(formatted_text)
 
+feature_name= f'>feature\t'
 def save_to_file(formatted_output, file_path):
     with open(file_path, 'w') as file:
         file.write(formatted_output)
